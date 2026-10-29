@@ -1,0 +1,468 @@
+{
+  "checked_client_utc": "2026-10-22T14:16:39.964437+00:00",
+  "method": "pypdf page tree, first two pages and last page; downloaded bytes unchanged",
+  "files": [
+    {
+      "relative_path": "PDFManual/data/advcal_ug.pdf",
+      "file": "advcal_ug.pdf",
+      "pages": 316,
+      "title": "Advanced Calibration for Process Simulation User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Advanced Calibration for Process \nSimulation User Guide\nVersion W-2024.09, September 2024\nAdvanced Calibration for Process Simulation User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 435,
+      "encrypted": false,
+      "sha256": "091cf6c7f03515ec2326b6e997f6521c9cb9fb0fa84192a2c7e2b495475cfa30",
+      "bytes": 5134355,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcal_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/advcald_ug.pdf",
+      "file": "advcald_ug.pdf",
+      "pages": 130,
+      "title": "Advanced Calibration for Device Simulation User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Advanced Calibration for Device \nSimulation User Guide\nVersion W-2024.09, September 2024\nAdvanced Calibration for Device Simulation User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1887,
+      "encrypted": false,
+      "sha256": "b4ccc96327fe34872ae382f350ab65ca79f9056b559c97c2096f53ab9101463f",
+      "bytes": 3920034,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcald_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/calikit_ug.pdf",
+      "file": "calikit_ug.pdf",
+      "pages": 42,
+      "title": "Calibration Kit User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Calibration Kit User Guide\nVersion W-2024.09, September 2024\nCalibration Kit User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1161,
+      "encrypted": false,
+      "sha256": "2a7f3aa3e4a9702c2e57b156eddb5ad0a256d2842aa9f7338ae219a9afabebb0",
+      "bytes": 746918,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/calikit_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/cm_ug.pdf",
+      "file": "cm_ug.pdf",
+      "pages": 221,
+      "title": "Compact Models User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Compact Models User Guide\nVersion W-2024.09, September 2024\nCompact Models User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 527,
+      "encrypted": false,
+      "sha256": "30367951a27bb014c6967e68bc43ac263884bcbf40619867827033c8fea5759d",
+      "bytes": 5142260,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/cm_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/cpps.pdf",
+      "file": "cpps.pdf",
+      "pages": 2,
+      "title": "Calibration Kit, Calibration Project Process Search (CPPS)",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "© 2024 Synopsys, Inc. All rights reserved. 1\nCalibration Kit User Guide, Version W-2024.09\n3Calibration Project Process Search (CPPS)\nThe Calibration Project Process Search (CPPS) looks for experiments in a calibration \nproject of Sentaurus™ Workbench. The tool scans process flows written in the syntax of \nSentaurus Process in the same way as DBPS. However, CPPS scans variables of the \nSentaurus Workbench. The experiments that match the search criterion are listed in the \nprocess list file.\nThe search criterion – the process search pattern – consists of conditions connected by \nlogical operators &&, ||,!, and grouped by parentheses. The operator && means and, || \nmeans or, and! means not. The conditions consist of a keyword and arguments, for \nexample, impl(element==As) or nimpl>0.\nIn general, the keyword takes only one argument. Only the impl() and diff() keywords \ncan have more than one argument that are connected by logical operators. Some \narguments consist of an argument type and a value connected by comparators: ==, <=, >=, \n<, >, or!=. Some arguments do not have comparators or argument types.\nTable 1 DBPS process flow keywords and  syntax allowed in CPPS criterion\nKeyword Description Argument Example\nimpl() Implantation statement \nscan, true if (1)\nelement, elem\nenergy, en\ndose\ntilt\nrotation, rot\nimpl(elem==as)\nimpl(en>0 && en<100)\nimpl(dose>=1e12)\nimpl(tilt!=0)\nimpl(rot<1)\ndiff() Diffusion statement \nscan, true if (1)\nmaxT (maximum temperature)\ntotaltime\npeaktime (time at maximum \ntemperature)\npn2 (partial pressure for N2)\npo2 (partial pressure for O2)\nph2o (partial pressure for H2O)\ndiff(maxT==1000)\ndiff(totaltime>5)\ndiff(peaktime!=0)\ndiff(pn2==1)\ndiff(po2>0 && po2<1)\ndiff(ph2o!=0)\nplot() Plot statement scan, \ntrue if (2)\nX, Xtot, Xtotal, Xactive\n(where X is one of as, p, b, in, \nge, sb, ga, al, n)\nplot(bactive)\n© 2024 Synopsys, Inc. All rights reserved. 2\nCalibration Kit User Guide, Version W-2024.09\nnimpl Number of implantation \nstatements scan, true if \n(3)\n– nimpl==1\nndiff Number of diffusion \nstatement scan, true if \n(3)\n– ndiff>0\ngrep() Process file scan, true if \n(2)\n<string> grep(comment)\n(1) At least one statement exists in the process file, for which the arguments are evaluated as true.\n(2) At least one statement exists in the process file, for which the argument is evaluated as true.\n(3) Comparison is evaluated as true.\nTable 2 Sentaurus Workbench keyword and  syntax allowed in CPPS criterion\nKeyword Meaning Argument Example\nprocess() Process variable scan, true if at least one statement \nexists in the process file, for which the arguments are \nevaluated as true\n<string> process(USJ)\nTable 1 DBPS process flow keywords and sy ntax allowed in CPPS criterion (Continued)\nKeyword Description Argument Example",
+      "last_page_text_chars": 919,
+      "encrypted": false,
+      "sha256": "08239d6ed3fa968c410fe3fe889c9f469516738b70a5b0f6eeb0210e0d12b459",
+      "bytes": 42080,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/cpps.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/dbps.pdf",
+      "file": "dbps.pdf",
+      "pages": 2,
+      "title": "Calibration Kit, Database Process Search (DBPS)",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "© 2024 Synopsys, Inc. All rights reserved. 1\nCalibration Kit User Guide, Version W-2024.09\n3Database Process Search (DBPS)\nThe Database Process Search (DBPS) looks for process flows written in Sentaurus™ \nProcess syntax in a directory (such as $STCALIB/processes_sp). The processes that \nmatch the search criterion are listed in the process list file.\nThe search criterion – the process search pattern – consists of conditions connected by \nlogical operators &&, ||,!, and grouped by parentheses. The operator && means and, || \nmeans or, and! means not. The conditions consist of a keyword and arguments, for \nexample, impl(element==As) or nimpl>0.\nIn general, the keyword takes only one argument. Only the impl() and diff() keywords \ncan have more than one argument that are connected by logical operators. Some \narguments consist of an argument type and a value connected by comparators: \n==, <=, >=, \n<, >, or!=. Some arguments do not have comparators or argument types. \nTable 1 DBPS process flow keywords and  syntax allowed in DBPS criterion\nKeyword Description Argument Example\nimpl() Implantation statement \nscan, true if (1)\nelement, elem\nenergy, en\ndose\ntilt\nrotation, rot\nimpl(elem==as)\nimpl(en>0 && en<100)\nimpl(dose>=1e12)\nimpl(tilt!=0)\nimpl(rot<1)\ndiff() Diffusion statement \nscan, true if (1)\nmaxT (maximum temperature)\ntotaltime\npeaktime (time at maximum \ntemperature)\npn2 (partial pressure for N2)\npo2 (partial pressure for O2)\nph2o (partial pressure for H2O)\ndiff(maxT==1000)\ndiff(totaltime>5)\ndiff(peaktime!=0)\ndiff(pn2==1)\ndiff(po2>0 && po2<1)\ndiff(ph2o!=0)\nplot() Plot statement scan, \ntrue if (2)\nX, Xtot, Xtotal, Xactive\n(where X is one of as, p, b, in, \nge, sb, ga, al, n)\nplot(bactive)\n© 2024 Synopsys, Inc. All rights reserved. 2\nCalibration Kit User Guide, Version W-2024.09\nnimpl Number of implantation \nstatements scan, true if \n(3)\n– nimpl==1\nndiff Number of diffusion \nstatement scan, true if \n(3)\n– ndiff>0\nfile() File name scan, true if \n(2)\n<string> file(USJ)\ngrep() Process file scan, true if \n(2)\n<string> grep(comment)\n(1) At least one statement exists in the process file, for which the arguments are evaluated as true.\n(2) At least one statement exists in the process file, for which the argument is evaluated as true.\n(3) Comparison is evaluated as true.\nTable 1 DBPS process flow keywords and sy ntax allowed in DBPS criterion (Continued)\nKeyword Description Argument Example",
+      "last_page_text_chars": 705,
+      "encrypted": false,
+      "sha256": "4c692cc444fa234907233a30c8fd813075ee676ac8c174d7e81788afdd03cf4b",
+      "bytes": 39939,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/dbps.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/dmc_ug.pdf",
+      "file": "dmc_ug.pdf",
+      "pages": 408,
+      "title": "Sentaurus™ Device Monte Carlo User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Device Monte Carlo User \nGuide\nVersion W-2024.09, September 2024\nSentaurus™ Device Monte Carlo User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 817,
+      "encrypted": false,
+      "sha256": "66f15815a4c95e03ed75960036dc4b238cacc57209c1f5bb48bcb13577fc4141",
+      "bytes": 7439951,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/dmc_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/emw_ug.pdf",
+      "file": "emw_ug.pdf",
+      "pages": 154,
+      "title": "Sentaurus™ Device Electromagnetic Wave Solver User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Device Electromagnetic \nWave Solver User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Device Electromagnetic Wave Solver User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 212,
+      "encrypted": false,
+      "sha256": "ca80002e5afec709d6ffd64a6d2321de648dc27090f98622660dfd90be4d6a79",
+      "bytes": 2417876,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/emw_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/garand_ug.pdf",
+      "file": "garand_ug.pdf",
+      "pages": 1118,
+      "title": "Garand User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Garand User Guide\nVersion W-2024.09, September 2024\nGarand User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1407,
+      "encrypted": false,
+      "sha256": "89f0335bf34c6b060830a6eeed04f58107f8b9f5ed64e6505268018af9d887a5",
+      "bytes": 23618205,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/garand_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/inspect_ug.pdf",
+      "file": "inspect_ug.pdf",
+      "pages": 131,
+      "title": "Inspect User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Inspect User Guide\nVersion W-2024.09, September 2024\nInspect User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 186,
+      "encrypted": false,
+      "sha256": "6eaa105d873bf98ea869578a7a635637124fd4bb53f7a98daaf61f503948eebd",
+      "bytes": 1822659,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/inspect_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/mystic_ug.pdf",
+      "file": "mystic_ug.pdf",
+      "pages": 121,
+      "title": "Mystic User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Mystic User Guide\nVersion W-2024.09, September 2024\nMystic User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 120,
+      "encrypted": false,
+      "sha256": "d529e1d8beb2f6b6c07220202a94879c96a96584fadd615d4b0c50e662a4d5e6",
+      "bytes": 4521823,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/mystic_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/opt_ug.pdf",
+      "file": "opt_ug.pdf",
+      "pages": 124,
+      "title": "Sentaurus™ Workbench Optimization Framework User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Workbench Optimization \nFramework User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Workbench Optimization Framework User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 783,
+      "encrypted": false,
+      "sha256": "b43dfc05db4b18dcabd72827cded620400fa88fbe452a88fbb2e12f678dbca3b",
+      "bytes": 2637882,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/opt_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/parallel_ug.pdf",
+      "file": "parallel_ug.pdf",
+      "pages": 15,
+      "title": "TCAD Parallelization Environment Setup User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "TCAD Parallelization Environment \nSetup User Guide\nVersion W-2024.09, September 2024\nTCAD Parallelization Environment Setup User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 842,
+      "encrypted": false,
+      "sha256": "8fd5550c54100fb07162e2677757497d82b76cd5c3f1d8593c671a6fbbcb5e9a",
+      "bytes": 147761,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/parallel_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/qtx_ug.pdf",
+      "file": "qtx_ug.pdf",
+      "pages": 108,
+      "title": "Sentaurus™ Device QTX User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Device QTX User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Device QTX User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1027,
+      "encrypted": false,
+      "sha256": "11002878bbf50e9b5c10801d9d718440fe69bd04a67d363a9e373bd799d5ce7f",
+      "bytes": 2097780,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/qtx_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/randomspice_ug.pdf",
+      "file": "randomspice_ug.pdf",
+      "pages": 45,
+      "title": "RandomSpice User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "RandomSpice User Guide\nVersion W-2024.09, September 2024\nRandomSpice User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 507,
+      "encrypted": false,
+      "sha256": "997a39373589b0992183a21f69d7d550d983f45bfbaa22aa0f7e04a403415b22",
+      "bytes": 883447,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/randomspice_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/scw_ug.pdf",
+      "file": "scw_ug.pdf",
+      "pages": 301,
+      "title": "Sentaurus™ Calibration Workbench User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Calibration Workbench \nUser Guide\nVersion W-2024.09, September 2024\nSentaurus™ Calibration Workbench User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1424,
+      "encrypted": false,
+      "sha256": "c52927d9c114fca3b2700b589892b8e6acb7e0dc3dfca72c0433cfaef31637b8",
+      "bytes": 6452903,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/scw_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/sde_ug.pdf",
+      "file": "sde_ug.pdf",
+      "pages": 899,
+      "title": "Sentaurus™ Structure Editor User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Structure Editor User \nGuide\nVersion W-2024.09, September 2024\nSentaurus™ Structure Editor User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1263,
+      "encrypted": false,
+      "sha256": "b3a5e959566355c01a56d23979b9a38df2d3ce6613126fd97cef144c05c6f14f",
+      "bytes": 13802201,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sde_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/sdevice_ug.pdf",
+      "file": "sdevice_ug.pdf",
+      "pages": 1801,
+      "title": "Sentaurus™ Device User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Device User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Device User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 578,
+      "encrypted": false,
+      "sha256": "98f37002013ccc2e73c0316e3ea66fd7d06fd773abac7caaa3d362ea85d5c5b0",
+      "bytes": 28095219,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sdevice_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/sentaurus_relnote.pdf",
+      "file": "sentaurus_relnote.pdf",
+      "pages": 1,
+      "title": "TCAD Sentaurus™ Release Notes on SolvNetPlus",
+      "cover_versions": [],
+      "cover_text": "TCAD Sentaurus™ Release Notes \non SolvNetPlus\nTo access the TCAD Sentaurus release notes on the Synopsys® SolvNetPlus support site:\n1. Go to https://solvnetplus.synopsys.com.\n2. Enter your user name and password.\nIf you do not have a Synopsys user name and password, then click REGISTER - CREATE\nACCOUNT to register with SolvNetPlus.\n3. Click Sign In.\nThe home page of SolvNetPlus opens.\n4. Click Downloads.\n5. On the My Product Releases tab, scroll through the list and click TCAD Sentaurus.\n6. Click the software version you require.\n7. Click the View release notes link.\n© 2024 Synopsys, Inc. All rights reserved.",
+      "last_page_text_chars": 616,
+      "encrypted": false,
+      "sha256": "059668ac6c73ebfbafa44791465f0cc080327406af7b2af74ca6cdca47409dc9",
+      "bytes": 62055,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sentaurus_relnote.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/sinterconnect_ug.pdf",
+      "file": "sinterconnect_ug.pdf",
+      "pages": 815,
+      "title": "Sentaurus™ Interconnect User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Interconnect User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Interconnect User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 462,
+      "encrypted": false,
+      "sha256": "c2d3422b16672a620ae0f146a8762bd0cfa3921e22f6bc90a5c12d8997e28533",
+      "bytes": 10280184,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sinterconnect_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/smesh_ug.pdf",
+      "file": "smesh_ug.pdf",
+      "pages": 188,
+      "title": "Sentaurus™ Mesh User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Mesh User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Mesh User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 506,
+      "encrypted": false,
+      "sha256": "8db3eadf20108c69254438a53d50d1c88b4937d456028752f8d051a2f5d8ba84",
+      "bytes": 6183493,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/smesh_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/solvers_ug.pdf",
+      "file": "solvers_ug.pdf",
+      "pages": 56,
+      "title": "Solvers User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Solvers User Guide\nVersion W-2024.09, September 2024\nSolvers User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n ",
+      "last_page_text_chars": 965,
+      "encrypted": false,
+      "sha256": "c08b09bb0446b732975c4a31ddede6d3f871bfbf194f62c691eeb1d127e4f369",
+      "bytes": 1532046,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/solvers_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/solvnetplus_appnotes.pdf",
+      "file": "solvnetplus_appnotes.pdf",
+      "pages": 1,
+      "title": "SolvNetPlus Application Notes",
+      "cover_versions": [],
+      "cover_text": "© 2024 Synopsys, Inc. All rights reserved.\nSolvNetPlus Application Notes\nAdditional TCAD Sentaurus™ app lication notes are available. A complete list of application\nnotes, with brief descriptions, is available from the Synopsys® SolvNetPlus support site.\nTCAD Sentaurus application notes are added contin ually to SolvNetPlus for the current release.\nCheck SolvNetPlus regularly for updates.\nAccessing Application Notes From SolvNetPlus\nTo access the application notes from SolvNetPlus:\n1. Go to https://solvnetplus.synopsys.com.\n2. Enter your user name and password.\nIf you do not have a Synopsys user name and password, then click REGISTER - CREATE\nACCOUNT to register with SolvNetPlus.\n3. Click Sign In.\nThe home page of SolvNetPlus opens.\n4. Search for the List of Available TCAD Sentaurus Application Examples and Notes  article.\nThis presents the latest index of application notes.\nAccessing PDF Documentation in Sentaurus Workbench\nTo access the PDF documentation in Sentaurus Workbench:\n1. Open a project.\n2. Choose Project > Properties > Documentation > PDF File.",
+      "last_page_text_chars": 1072,
+      "encrypted": false,
+      "sha256": "302c7121457b76355330c4933b13118a66758614ca2ca19b31fa36298c55ac0c",
+      "bytes": 65524,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/solvnetplus_appnotes.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/sprocess_ug.pdf",
+      "file": "sprocess_ug.pdf",
+      "pages": 1369,
+      "title": "Sentaurus™ Process User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Process User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Process User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 946,
+      "encrypted": false,
+      "sha256": "54519efafa87df32e1636874d29eb181478b2ad997a5e380f60dcb09441be961",
+      "bytes": 12180530,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sprocess_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/svisual_ug.pdf",
+      "file": "svisual_ug.pdf",
+      "pages": 605,
+      "title": "Sentaurus™ Visual User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Visual User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Visual User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 1127,
+      "encrypted": false,
+      "sha256": "760ed0b33b1d9cff837442d0d28db3aeda59fca03666f5089bfe865ad96acf3e",
+      "bytes": 17273977,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/svisual_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/swb_ug.pdf",
+      "file": "swb_ug.pdf",
+      "pages": 371,
+      "title": "Sentaurus™ Workbench User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Workbench User Guide\nVersion W-2024.09, September 2024\nSentaurus™ Workbench User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 864,
+      "encrypted": false,
+      "sha256": "a38eeb456720154c65b5de5b6b989a965f6c45f4895e71001d11fffe740d0063",
+      "bytes": 7891312,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/swb_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/tdx_ug.pdf",
+      "file": "tdx_ug.pdf",
+      "pages": 125,
+      "title": "Sentaurus™ Data Explorer User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Sentaurus™ Data Explorer User \nGuide\nVersion W-2024.09, September 2024\nSentaurus™ Data Explorer User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 625,
+      "encrypted": false,
+      "sha256": "aca76fde656b48e5e763612df87cc7b3d8e2c2fd7f4111a4490979517e30e431",
+      "bytes": 524734,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/tdx_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/data/utilities_ug.pdf",
+      "file": "utilities_ug.pdf",
+      "pages": 48,
+      "title": "Utilities User Guide",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "Utilities User Guide\nVersion W-2024.09, September 2024\nUtilities User Guide 2\nW-2024.09\nCopyright and Proprietary Information Notice\n© 2024 Synopsys, Inc. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and \nmay only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other \nuse, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly \nprohibited.\nDestination Control Statement\nAll technical data contained in this publication is subject to the export control laws of the United States of America. \nDisclosure to nationals of other countries contrary to United States law is prohibited. It is the reader’s responsibility to \ndetermine the applicable regulations and to comply with them.\nDisclaimer\nSYNOPSYS, INC., AND ITS LICENSORS MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH \nREGARD TO THIS MATERIAL, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF \nMERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\nTrademarks\nSynopsys and certain Synopsys product names are trademarks of Synopsys, as set forth at\nhttps://www.synopsys.com/company/legal/trademarks-brands.html.\nAll other product or company names may be trademarks of their respective owners.\nFree and Open-Source Licensing Notices\nIf applicable, Free and Open-Source Software (FOSS) licensing notices are available in the product installation.\nThird-Party Links\nAny links to third-party websites included in this document are for your convenience only. Synopsys does not endorse \nand is not responsible for such websites and their practices, including privacy practices, availability, and content.\nwww.synopsys.com \n \n ",
+      "last_page_text_chars": 495,
+      "encrypted": false,
+      "sha256": "70588a32d227a6527c1d1276c641ab10b6f64b2c5ad33088cd3301c67d5b2ff6",
+      "bytes": 971403,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/utilities_ug.pdf",
+      "readable": true
+    },
+    {
+      "relative_path": "PDFManual/front.pdf",
+      "file": "front.pdf",
+      "pages": 1,
+      "title": "TCAD Documentation W-2024.09",
+      "cover_versions": [
+        "W-2024.09"
+      ],
+      "cover_text": "TCAD Documentation\nVersion W-2024.09\nFramework\nSentaurus Workbench\nCalibration Kit\nInspect\nOptimization Framework\nSentaurus Calibration \n  Workbench\nSentaurus Data Explorer\nSentaurus Visual\nTCAD Parallelization \n  Environment Setup\nUtilities\nProcess Simulation\nSentaurus Process\nAdvanced Calibration\n  for Process Simulation\nSentaurus Interconnect\nDevice Creation\nSentaurus Structure Editor\nSentaurus Mesh\nDevice Simulation\nSentaurus Device\nAdvanced Calibration\n  for Device Simulation\nCompact Models\nSentaurus Device\n  Electromagnetic Wave Solver\nSentaurus Device Monte Carlo\nSentaurus Device QTX\nSolvers\nTutorials and References\nTCAD Sentaurus Tutorial\nTips & Tricks\nRelease Notes\nSolvNetPlus Application Notes\nTCAD to SPICE\nGarand\nMystic\nRandomSpice",
+      "last_page_text_chars": 752,
+      "encrypted": false,
+      "sha256": "a873ab075ac766eb8e56a29902e0dca776a8f505045e78540a2cc5a8b01948e7",
+      "bytes": 2874415,
+      "remote_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/front.pdf",
+      "readable": true
+    }
+  ],
+  "all_readable": true,
+  "total_pages": 9518
+}

@@ -1,0 +1,28 @@
+{
+  "reviewed_client_utc": "2026-10-22T14:18:43.318354+00:00",
+  "all_29_sha256_match": true,
+  "all_29_pdf_page_trees_readable": true,
+  "rendered_and_visually_checked": [
+    {
+      "file": "sdevice_ug.pdf",
+      "page": 1,
+      "legible": true
+    },
+    {
+      "file": "sprocess_ug.pdf",
+      "page": 1,
+      "legible": true
+    },
+    {
+      "file": "swb_ug.pdf",
+      "page": 1,
+      "legible": true
+    },
+    {
+      "file": "sdevice_ug.pdf",
+      "page": 100,
+      "legible": true
+    }
+  ],
+  "pdfs_modified": false
+}

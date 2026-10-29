@@ -1,0 +1,37 @@
+{
+  "checked_utc": "2026-10-22T14:42:58.942375+00:00",
+  "files": [
+    {
+      "title": "Mystic User Guide",
+      "file": "HTML_Export_PDF/mystic_api_User_Guide_W-2024.09_HTML_export.pdf",
+      "pages": 91,
+      "bytes": 5842260,
+      "sha256": "8b98d8b34c42780526d643738480596ec8742ea646cec7b59f17b976ea800c2d",
+      "type": "html_export",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/mystic_api/user_guide.html",
+      "math": {
+        "rendered": 0,
+        "errors": []
+      },
+      "broken_images": [],
+      "blank_pages": []
+    },
+    {
+      "title": "Optimizer User Guide",
+      "file": "HTML_Export_PDF/opt_api_User_Guide_W-2024.09_HTML_export.pdf",
+      "pages": 48,
+      "bytes": 867044,
+      "sha256": "a8b60b51ad951ad29c3fb0997da080806dda5cf536e0fdeeef2932886dd9da52",
+      "type": "html_export",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/opt_api/user_guide.html",
+      "math": {
+        "rendered": 113,
+        "errors": []
+      },
+      "broken_images": [],
+      "blank_pages": []
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "errors": [],
+  "installation": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1",
+  "server_utc": "2026-10-22T14:11:39.035459Z",
+  "pdfs": [
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/front.pdf",
+      "name": "front.pdf",
+      "pdf_header_valid": true,
+      "bytes": 2874415,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/front.pdf",
+      "sha256": "a873ab075ac766eb8e56a29902e0dca776a8f505045e78540a2cc5a8b01948e7"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcald_ug.pdf",
+      "name": "advcald_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 3920034,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/advcald_ug.pdf",
+      "sha256": "b4ccc96327fe34872ae382f350ab65ca79f9056b559c97c2096f53ab9101463f"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcal_ug.pdf",
+      "name": "advcal_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 5134355,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/advcal_ug.pdf",
+      "sha256": "091cf6c7f03515ec2326b6e997f6521c9cb9fb0fa84192a2c7e2b495475cfa30"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/solvers_ug.pdf",
+      "name": "solvers_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 1532046,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/solvers_ug.pdf",
+      "sha256": "c08b09bb0446b732975c4a31ddede6d3f871bfbf194f62c691eeb1d127e4f369"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sde_ug.pdf",
+      "name": "sde_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 13802201,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/sde_ug.pdf",
+      "sha256": "b3a5e959566355c01a56d23979b9a38df2d3ce6613126fd97cef144c05c6f14f"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/dmc_ug.pdf",
+      "name": "dmc_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 7439951,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/dmc_ug.pdf",
+      "sha256": "66f15815a4c95e03ed75960036dc4b238cacc57209c1f5bb48bcb13577fc4141"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/utilities_ug.pdf",
+      "name": "utilities_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 971403,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/utilities_ug.pdf",
+      "sha256": "70588a32d227a6527c1d1276c641ab10b6f64b2c5ad33088cd3301c67d5b2ff6"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/parallel_ug.pdf",
+      "name": "parallel_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 147761,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/parallel_ug.pdf",
+      "sha256": "8fd5550c54100fb07162e2677757497d82b76cd5c3f1d8593c671a6fbbcb5e9a"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sinterconnect_ug.pdf",
+      "name": "sinterconnect_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 10280184,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/sinterconnect_ug.pdf",
+      "sha256": "c2d3422b16672a620ae0f146a8762bd0cfa3921e22f6bc90a5c12d8997e28533"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/solvnetplus_appnotes.pdf",
+      "name": "solvnetplus_appnotes.pdf",
+      "pdf_header_valid": true,
+      "bytes": 65524,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/solvnetplus_appnotes.pdf",
+      "sha256": "302c7121457b76355330c4933b13118a66758614ca2ca19b31fa36298c55ac0c"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/qtx_ug.pdf",
+      "name": "qtx_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 2097780,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/qtx_ug.pdf",
+      "sha256": "11002878bbf50e9b5c10801d9d718440fe69bd04a67d363a9e373bd799d5ce7f"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/swb_ug.pdf",
+      "name": "swb_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 7891312,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/swb_ug.pdf",
+      "sha256": "a38eeb456720154c65b5de5b6b989a965f6c45f4895e71001d11fffe740d0063"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sentaurus_relnote.pdf",
+      "name": "sentaurus_relnote.pdf",
+      "pdf_header_valid": true,
+      "bytes": 62055,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/sentaurus_relnote.pdf",
+      "sha256": "059668ac6c73ebfbafa44791465f0cc080327406af7b2af74ca6cdca47409dc9"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/randomspice_ug.pdf",
+      "name": "randomspice_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 883447,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/randomspice_ug.pdf",
+      "sha256": "997a39373589b0992183a21f69d7d550d983f45bfbaa22aa0f7e04a403415b22"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/cm_ug.pdf",
+      "name": "cm_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 5142260,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/cm_ug.pdf",
+      "sha256": "30367951a27bb014c6967e68bc43ac263884bcbf40619867827033c8fea5759d"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/tdx_ug.pdf",
+      "name": "tdx_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 524734,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/tdx_ug.pdf",
+      "sha256": "aca76fde656b48e5e763612df87cc7b3d8e2c2fd7f4111a4490979517e30e431"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/scw_ug.pdf",
+      "name": "scw_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 6452903,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/scw_ug.pdf",
+      "sha256": "c52927d9c114fca3b2700b589892b8e6acb7e0dc3dfca72c0433cfaef31637b8"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/calikit_ug.pdf",
+      "name": "calikit_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 746918,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/calikit_ug.pdf",
+      "sha256": "2a7f3aa3e4a9702c2e57b156eddb5ad0a256d2842aa9f7338ae219a9afabebb0"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/emw_ug.pdf",
+      "name": "emw_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 2417876,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/emw_ug.pdf",
+      "sha256": "ca80002e5afec709d6ffd64a6d2321de648dc27090f98622660dfd90be4d6a79"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/inspect_ug.pdf",
+      "name": "inspect_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 1822659,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/inspect_ug.pdf",
+      "sha256": "6eaa105d873bf98ea869578a7a635637124fd4bb53f7a98daaf61f503948eebd"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sdevice_ug.pdf",
+      "name": "sdevice_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 28095219,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/sdevice_ug.pdf",
+      "sha256": "98f37002013ccc2e73c0316e3ea66fd7d06fd773abac7caaa3d362ea85d5c5b0"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sprocess_ug.pdf",
+      "name": "sprocess_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 12180530,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/sprocess_ug.pdf",
+      "sha256": "54519efafa87df32e1636874d29eb181478b2ad997a5e380f60dcb09441be961"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/mystic_ug.pdf",
+      "name": "mystic_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 4521823,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/mystic_ug.pdf",
+      "sha256": "d529e1d8beb2f6b6c07220202a94879c96a96584fadd615d4b0c50e662a4d5e6"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/smesh_ug.pdf",
+      "name": "smesh_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 6183493,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/smesh_ug.pdf",
+      "sha256": "8db3eadf20108c69254438a53d50d1c88b4937d456028752f8d051a2f5d8ba84"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/svisual_ug.pdf",
+      "name": "svisual_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 17273977,
+      "mtime": 1730157465.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/svisual_ug.pdf",
+      "sha256": "760ed0b33b1d9cff837442d0d28db3aeda59fca03666f5089bfe865ad96acf3e"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/dbps.pdf",
+      "name": "dbps.pdf",
+      "pdf_header_valid": true,
+      "bytes": 39939,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/dbps.pdf",
+      "sha256": "4c692cc444fa234907233a30c8fd813075ee676ac8c174d7e81788afdd03cf4b"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/cpps.pdf",
+      "name": "cpps.pdf",
+      "pdf_header_valid": true,
+      "bytes": 42080,
+      "mtime": 1730157463.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/cpps.pdf",
+      "sha256": "08239d6ed3fa968c410fe3fe889c9f469516738b70a5b0f6eeb0210e0d12b459"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/opt_ug.pdf",
+      "name": "opt_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 2637882,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/opt_ug.pdf",
+      "sha256": "b43dfc05db4b18dcabd72827cded620400fa88fbe452a88fbb2e12f678dbca3b"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/garand_ug.pdf",
+      "name": "garand_ug.pdf",
+      "pdf_header_valid": true,
+      "bytes": 23618205,
+      "mtime": 1730157464.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/PDFManual/data/garand_ug.pdf",
+      "sha256": "89f0335bf34c6b060830a6eeed04f58107f8b9f5ed64e6505268018af9d887a5"
+    },
+    {
+      "realpath": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/doc/foss/TCAD_Sentaurus_20241016_FOSS.pdf",
+      "name": "TCAD_Sentaurus_20241016_FOSS.pdf",
+      "pdf_header_valid": true,
+      "bytes": 1155509,
+      "mtime": 1732215649.0,
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/doc/foss/TCAD_Sentaurus_20241016_FOSS.pdf",
+      "sha256": "cceb8305e450ab1fca5d14040ddf08b324048768f749cd566da3d17f8d63a131"
+    }
+  ],
+  "other_name_matches": [
+    {
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/mystic_api/user_guide.html",
+      "bytes": 12659
+    },
+    {
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/mystic_api/_sources/user_guide.rst.txt",
+      "bytes": 346
+    },
+    {
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/opt_api/user_guide.html",
+      "bytes": 10056
+    },
+    {
+      "path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/opt_api/_sources/user_guide.rst.txt",
+      "bytes": 313
+    }
+  ],
+  "searched_roots": [
+    "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals",
+    "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/doc",
+    "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/Sentaurus_Training"
+  ]
+}

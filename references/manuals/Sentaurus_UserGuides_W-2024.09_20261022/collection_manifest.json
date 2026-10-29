@@ -1,0 +1,271 @@
+{
+  "created_utc": "2026-10-22T14:42:58.942375+00:00",
+  "pdf_count": 26,
+  "original_pdf_count": 24,
+  "html_export_pdf_count": 2,
+  "total_pages": 9650,
+  "pdf_bytes": 172428257,
+  "server_modified": false,
+  "files": [
+    {
+      "title": "Advanced Calibration for Device Simulation User Guide",
+      "file": "Original_PDF/advcald_ug.pdf",
+      "pages": 130,
+      "bytes": 3920034,
+      "sha256": "b4ccc96327fe34872ae382f350ab65ca79f9056b559c97c2096f53ab9101463f",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcald_ug.pdf"
+    },
+    {
+      "title": "Advanced Calibration for Process Simulation User Guide",
+      "file": "Original_PDF/advcal_ug.pdf",
+      "pages": 316,
+      "bytes": 5134355,
+      "sha256": "091cf6c7f03515ec2326b6e997f6521c9cb9fb0fa84192a2c7e2b495475cfa30",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/advcal_ug.pdf"
+    },
+    {
+      "title": "Solvers User Guide",
+      "file": "Original_PDF/solvers_ug.pdf",
+      "pages": 56,
+      "bytes": 1532046,
+      "sha256": "c08b09bb0446b732975c4a31ddede6d3f871bfbf194f62c691eeb1d127e4f369",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/solvers_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Structure Editor User Guide",
+      "file": "Original_PDF/sde_ug.pdf",
+      "pages": 899,
+      "bytes": 13802201,
+      "sha256": "b3a5e959566355c01a56d23979b9a38df2d3ce6613126fd97cef144c05c6f14f",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sde_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Device Monte Carlo User Guide",
+      "file": "Original_PDF/dmc_ug.pdf",
+      "pages": 408,
+      "bytes": 7439951,
+      "sha256": "66f15815a4c95e03ed75960036dc4b238cacc57209c1f5bb48bcb13577fc4141",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/dmc_ug.pdf"
+    },
+    {
+      "title": "Utilities User Guide",
+      "file": "Original_PDF/utilities_ug.pdf",
+      "pages": 48,
+      "bytes": 971403,
+      "sha256": "70588a32d227a6527c1d1276c641ab10b6f64b2c5ad33088cd3301c67d5b2ff6",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/utilities_ug.pdf"
+    },
+    {
+      "title": "TCAD Parallelization Environment Setup User Guide",
+      "file": "Original_PDF/parallel_ug.pdf",
+      "pages": 15,
+      "bytes": 147761,
+      "sha256": "8fd5550c54100fb07162e2677757497d82b76cd5c3f1d8593c671a6fbbcb5e9a",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/parallel_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Interconnect User Guide",
+      "file": "Original_PDF/sinterconnect_ug.pdf",
+      "pages": 815,
+      "bytes": 10280184,
+      "sha256": "c2d3422b16672a620ae0f146a8762bd0cfa3921e22f6bc90a5c12d8997e28533",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sinterconnect_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Device QTX User Guide",
+      "file": "Original_PDF/qtx_ug.pdf",
+      "pages": 108,
+      "bytes": 2097780,
+      "sha256": "11002878bbf50e9b5c10801d9d718440fe69bd04a67d363a9e373bd799d5ce7f",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/qtx_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Workbench User Guide",
+      "file": "Original_PDF/swb_ug.pdf",
+      "pages": 371,
+      "bytes": 7891312,
+      "sha256": "a38eeb456720154c65b5de5b6b989a965f6c45f4895e71001d11fffe740d0063",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/swb_ug.pdf"
+    },
+    {
+      "title": "RandomSpice User Guide",
+      "file": "Original_PDF/randomspice_ug.pdf",
+      "pages": 45,
+      "bytes": 883447,
+      "sha256": "997a39373589b0992183a21f69d7d550d983f45bfbaa22aa0f7e04a403415b22",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/randomspice_ug.pdf"
+    },
+    {
+      "title": "Compact Models User Guide",
+      "file": "Original_PDF/cm_ug.pdf",
+      "pages": 221,
+      "bytes": 5142260,
+      "sha256": "30367951a27bb014c6967e68bc43ac263884bcbf40619867827033c8fea5759d",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/cm_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Data Explorer User Guide",
+      "file": "Original_PDF/tdx_ug.pdf",
+      "pages": 125,
+      "bytes": 524734,
+      "sha256": "aca76fde656b48e5e763612df87cc7b3d8e2c2fd7f4111a4490979517e30e431",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/tdx_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Calibration Workbench User Guide",
+      "file": "Original_PDF/scw_ug.pdf",
+      "pages": 301,
+      "bytes": 6452903,
+      "sha256": "c52927d9c114fca3b2700b589892b8e6acb7e0dc3dfca72c0433cfaef31637b8",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/scw_ug.pdf"
+    },
+    {
+      "title": "Calibration Kit User Guide",
+      "file": "Original_PDF/calikit_ug.pdf",
+      "pages": 42,
+      "bytes": 746918,
+      "sha256": "2a7f3aa3e4a9702c2e57b156eddb5ad0a256d2842aa9f7338ae219a9afabebb0",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/calikit_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Device Electromagnetic Wave Solver User Guide",
+      "file": "Original_PDF/emw_ug.pdf",
+      "pages": 154,
+      "bytes": 2417876,
+      "sha256": "ca80002e5afec709d6ffd64a6d2321de648dc27090f98622660dfd90be4d6a79",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/emw_ug.pdf"
+    },
+    {
+      "title": "Inspect User Guide",
+      "file": "Original_PDF/inspect_ug.pdf",
+      "pages": 131,
+      "bytes": 1822659,
+      "sha256": "6eaa105d873bf98ea869578a7a635637124fd4bb53f7a98daaf61f503948eebd",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/inspect_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Device User Guide",
+      "file": "Original_PDF/sdevice_ug.pdf",
+      "pages": 1801,
+      "bytes": 28095219,
+      "sha256": "98f37002013ccc2e73c0316e3ea66fd7d06fd773abac7caaa3d362ea85d5c5b0",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sdevice_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Process User Guide",
+      "file": "Original_PDF/sprocess_ug.pdf",
+      "pages": 1369,
+      "bytes": 12180530,
+      "sha256": "54519efafa87df32e1636874d29eb181478b2ad997a5e380f60dcb09441be961",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/sprocess_ug.pdf"
+    },
+    {
+      "title": "Mystic User Guide",
+      "file": "Original_PDF/mystic_ug.pdf",
+      "pages": 121,
+      "bytes": 4521823,
+      "sha256": "d529e1d8beb2f6b6c07220202a94879c96a96584fadd615d4b0c50e662a4d5e6",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/mystic_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Mesh User Guide",
+      "file": "Original_PDF/smesh_ug.pdf",
+      "pages": 188,
+      "bytes": 6183493,
+      "sha256": "8db3eadf20108c69254438a53d50d1c88b4937d456028752f8d051a2f5d8ba84",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/smesh_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Visual User Guide",
+      "file": "Original_PDF/svisual_ug.pdf",
+      "pages": 605,
+      "bytes": 17273977,
+      "sha256": "760ed0b33b1d9cff837442d0d28db3aeda59fca03666f5089bfe865ad96acf3e",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/svisual_ug.pdf"
+    },
+    {
+      "title": "Sentaurus™ Workbench Optimization Framework User Guide",
+      "file": "Original_PDF/opt_ug.pdf",
+      "pages": 124,
+      "bytes": 2637882,
+      "sha256": "b43dfc05db4b18dcabd72827cded620400fa88fbe452a88fbb2e12f678dbca3b",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/opt_ug.pdf"
+    },
+    {
+      "title": "Garand User Guide",
+      "file": "Original_PDF/garand_ug.pdf",
+      "pages": 1118,
+      "bytes": 23618205,
+      "sha256": "89f0335bf34c6b060830a6eeed04f58107f8b9f5ed64e6505268018af9d887a5",
+      "type": "original_pdf",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/PDFManual/data/garand_ug.pdf"
+    },
+    {
+      "title": "Mystic User Guide",
+      "file": "HTML_Export_PDF/mystic_api_User_Guide_W-2024.09_HTML_export.pdf",
+      "pages": 91,
+      "bytes": 5842260,
+      "sha256": "8b98d8b34c42780526d643738480596ec8742ea646cec7b59f17b976ea800c2d",
+      "type": "html_export",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/mystic_api/user_guide.html"
+    },
+    {
+      "title": "Optimizer User Guide",
+      "file": "HTML_Export_PDF/opt_api_User_Guide_W-2024.09_HTML_export.pdf",
+      "pages": 48,
+      "bytes": 867044,
+      "sha256": "a8b60b51ad951ad29c3fb0997da080806dda5cf536e0fdeeef2932886dd9da52",
+      "type": "html_export",
+      "version": "W-2024.09",
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice/opt_api/user_guide.html"
+    }
+  ]
+}

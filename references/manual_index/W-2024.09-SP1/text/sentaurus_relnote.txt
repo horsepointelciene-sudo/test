@@ -1,0 +1,18 @@
+   TCAD SentaurusTM Release Notes
+                on SolvNetPlus
+
+To access the TCAD Sentaurus release notes on the Synopsys® SolvNetPlus support site:
+1. Go to https://solvnetplus.synopsys.com.
+2. Enter your user name and password.
+
+   If you do not have a Synopsys user name and password, then click REGISTER - CREATE
+   ACCOUNT to register with SolvNetPlus.
+3. Click Sign In.
+   The home page of SolvNetPlus opens.
+4. Click Downloads.
+5. On the My Product Releases tab, scroll through the list and click TCAD Sentaurus.
+6. Click the software version you require.
+7. Click the View release notes link.
+
+                                                    © 2024 Synopsys, Inc. All rights reserved.
+

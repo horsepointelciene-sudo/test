@@ -1,0 +1,2204 @@
+{
+  "files": [
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/.buildinfo",
+      "sha256": "39abc74a4fcc3ba735ec97301dac430d2b82516247a899b79c413b654db27df0",
+      "bytes": 230,
+      "relative_path": "mystic_api/.buildinfo"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/api_docs.html",
+      "sha256": "06efadd8b2d5840319b21f9a455a1dfbe64597c1c163e8f132a0361214c04fd2",
+      "bytes": 18576,
+      "relative_path": "mystic_api/api_docs.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/color.html",
+      "sha256": "3f323255380acd61a03846b9095e956cc0de003cf2d1b4a22f29ed370cbe5e9a",
+      "bytes": 4654,
+      "relative_path": "mystic_api/color.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/common_libraries.html",
+      "sha256": "35ba2dfd8eb2c4dcbc6ad9b66d95ace6ca3f7b8a57701f84c9a5a74329f0e401",
+      "bytes": 251559,
+      "relative_path": "mystic_api/common_libraries.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/copyright.html",
+      "sha256": "db0d87706eec5d7056a7e6caeaea4f11e63bae523fffa388f232c9cfa12a9246",
+      "bytes": 8745,
+      "relative_path": "mystic_api/copyright.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/correctors.html",
+      "sha256": "4f1fc94436cc33a3f48e84935655289fb41a6bcb3cfb6a103a5255c522b135b5",
+      "bytes": 57166,
+      "relative_path": "mystic_api/correctors.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/correlated_parameters.html",
+      "sha256": "33fe6532467814b17ad7c3d7f37a2c562316f80e2ebd432880a18246bdccecd0",
+      "bytes": 40338,
+      "relative_path": "mystic_api/correlated_parameters.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/data_upload.html",
+      "sha256": "f4385c3ae19eeb4abb1bc41af66849aa2091441bf400fef28255db1f2d5c2544",
+      "bytes": 21175,
+      "relative_path": "mystic_api/data_upload.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/engine.html",
+      "sha256": "bfd660b90b0ad33fcf00c02f927f245512e9dc777db92eec9be7e0a966cbefc5",
+      "bytes": 74850,
+      "relative_path": "mystic_api/engine.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/examples.html",
+      "sha256": "961a59d818d46aa6b22d1a1afdedf37abf4023094d451b7f853cb0943a00fc60",
+      "bytes": 15842,
+      "relative_path": "mystic_api/examples.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/genindex.html",
+      "sha256": "76039d243f0ccedd2c55035e136ad3a65fa9f6866d7cbb5fbabcc815baa3b228",
+      "bytes": 72773,
+      "relative_path": "mystic_api/genindex.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/index.html",
+      "sha256": "bd9e71c175f050871b53a6ad7e60619937b90f0cfe34024bd1088718448264b8",
+      "bytes": 17358,
+      "relative_path": "mystic_api/index.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/introduction.html",
+      "sha256": "936f4fbf1790d67956b5c3d4223aedc209078bdcc52dfe3b9e4daa4cc461b776",
+      "bytes": 32350,
+      "relative_path": "mystic_api/introduction.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/mystic_gui.html",
+      "sha256": "4877c70387a2e1ab86bc6d01f3ad7696ba883a60e0e291c001d1004f3b508311",
+      "bytes": 78423,
+      "relative_path": "mystic_api/mystic_gui.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/mystic_ml.html",
+      "sha256": "08e495ad2cb7905a8e0f94c5de0db78113e3802b75fcb4ede30c81c50c9111e8",
+      "bytes": 26509,
+      "relative_path": "mystic_api/mystic_ml.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/objects.inv",
+      "sha256": "008e75c41db8956de8dd046429850bccfa9065cd854d5d0815b9d14772857405",
+      "bytes": 5262,
+      "relative_path": "mystic_api/objects.inv"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/py-modindex.html",
+      "sha256": "87997a0047b54c40ef9071e7b40146b48e46f8c502405ff80df74ebb0224bf50",
+      "bytes": 6918,
+      "relative_path": "mystic_api/py-modindex.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/search.html",
+      "sha256": "7a425044ea83655d2230df73347bcbfec2b9a7c0a1ede6ced61c4b12835c0b73",
+      "bytes": 5064,
+      "relative_path": "mystic_api/search.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/searchindex.js",
+      "sha256": "5550c40b2943fecc0c9ae582767d96a1495b5fc15f2a1870e53b74d97aed8bf9",
+      "bytes": 76262,
+      "relative_path": "mystic_api/searchindex.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/specific_use_cases.html",
+      "sha256": "c9943e5dcb6ae18b0fa2e46e7b955262fcca2a46059bf504a9b54f61faa2656a",
+      "bytes": 96416,
+      "relative_path": "mystic_api/specific_use_cases.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/spice_model_extraction.html",
+      "sha256": "fcb205002464d0e5fd383acbf1f0a3ec296c7c6f13452cac832c3a40be9393b3",
+      "bytes": 158568,
+      "relative_path": "mystic_api/spice_model_extraction.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/user_guide.html",
+      "sha256": "e0e2a634d35bc79944a2d6403205c4c72e3818b79d4e87f48c92204f88bac406",
+      "bytes": 12659,
+      "relative_path": "mystic_api/user_guide.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/CompactModels/Netlist.html",
+      "sha256": "3f243ec2ab3625b77f39e6ccd046913dd6ad60d31239f9f600031605ab8b0bb6",
+      "bytes": 115533,
+      "relative_path": "mystic_api/CompactModels/Netlist.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/DataStructures/SimData.html",
+      "sha256": "6bf723ee4cdbf76859e9990d85412afc4575bc449c1fc3766429593d1de9cfbc",
+      "bytes": 200681,
+      "relative_path": "mystic_api/DataStructures/SimData.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Database/MysticDB.html",
+      "sha256": "e416f2863c7c94186d5957904b0b3ca15ad27330ae6aeecb9ca2f7fec8a05503",
+      "bytes": 74489,
+      "relative_path": "mystic_api/Database/MysticDB.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Multistage/ExtractionUtils.html",
+      "sha256": "353bf11f399431f7b758de577b53d893538b45d80fb28e3fc616b7b76549a452",
+      "bytes": 73807,
+      "relative_path": "mystic_api/Multistage/ExtractionUtils.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Optimizers/Optimizer.html",
+      "sha256": "a9db85441fcedc2735c788879bdc8e147dd3b17caee5bb22597bd2327ab001ff",
+      "bytes": 9365,
+      "relative_path": "mystic_api/Optimizers/Optimizer.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Optimizers/mkl_opt.html",
+      "sha256": "b7e58698cb14ca238d0986f35c5af7cfbe840b645e1ee23b95db187827937953",
+      "bytes": 25150,
+      "relative_path": "mystic_api/Optimizers/mkl_opt.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Optimizers/Optimizers/Optimizer.html",
+      "sha256": "eda331f170a32b72da57ec7050b2d76844164da4cb2a2fddef6c1ba48b1d6127",
+      "bytes": 75125,
+      "relative_path": "mystic_api/Optimizers/Optimizers/Optimizer.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Optimizers/Parameters/Parameter.html",
+      "sha256": "36cf676ef38c2c254b4c6a2c76cf89b9ba0e9514c4c67cd3ad786a6447904888",
+      "bytes": 37670,
+      "relative_path": "mystic_api/Optimizers/Parameters/Parameter.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/Simulator/Simulator.html",
+      "sha256": "7a62c5a6ef8a93e2241cf4aaa27821e40505d7587a43bdce756812cfe72627a9",
+      "bytes": 80408,
+      "relative_path": "mystic_api/Simulator/Simulator.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/IdVd-delta.PNG",
+      "sha256": "ccc50af16c79aa0d5850e75e8c5ea18f569813a9e6af737017c0ff7d5594cb88",
+      "bytes": 51505,
+      "relative_path": "mystic_api/_images/IdVd-delta.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/IdVd.PNG",
+      "sha256": "7d43c1e4fd97b55acc745f14fa992974ba48bde94fa6939b6f5deb203baa891c",
+      "bytes": 55270,
+      "relative_path": "mystic_api/_images/IdVd.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/IdVg-delta.PNG",
+      "sha256": "5527dd7256b805ef015fd38495764125136b6ccbe7249b0469a7b30f75346b1d",
+      "bytes": 65544,
+      "relative_path": "mystic_api/_images/IdVg-delta.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/IdVg.PNG",
+      "sha256": "7953fbf6574d9c8c48d882e60b1776a14d44ea071df0897543353152ebdd7774",
+      "bytes": 96627,
+      "relative_path": "mystic_api/_images/IdVg.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/RC-fit.PNG",
+      "sha256": "791f8ba314faef704de68f45e7879ea652935d4517e0dda52d5074be18060593",
+      "bytes": 67875,
+      "relative_path": "mystic_api/_images/RC-fit.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/RC-pars.PNG",
+      "sha256": "14831ad21baafc38290f26d01b8867ab2ea6b32264164da4845155c0f1b38e81",
+      "bytes": 86717,
+      "relative_path": "mystic_api/_images/RC-pars.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/RC-target.PNG",
+      "sha256": "e7d3f00fe62550aa27cb88a85c854a0b984f974225d9f91081c4d33e380e6f2c",
+      "bytes": 53060,
+      "relative_path": "mystic_api/_images/RC-target.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/admittance-plt.PNG",
+      "sha256": "b5815d8edd81d3026f3ce4bf013736c7cd2a6a768f131ddd5ae920f61fafe4b8",
+      "bytes": 34361,
+      "relative_path": "mystic_api/_images/admittance-plt.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/bayesian.PNG",
+      "sha256": "adb0e5a7d9d862762ac0cacf345a51699a37324ef71c5eb573562b50b627bd02",
+      "bytes": 212059,
+      "relative_path": "mystic_api/_images/bayesian.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/breakpoint.PNG",
+      "sha256": "1b6fed83ef9789290961c4f82e2ef6e4051d43985605d7017ccaf8791dee6878",
+      "bytes": 226167,
+      "relative_path": "mystic_api/_images/breakpoint.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/csv-file.PNG",
+      "sha256": "8c1c65a495898b67986138a6d3b1e85e5d55911c64d64b971b4aed946e633f7a",
+      "bytes": 11372,
+      "relative_path": "mystic_api/_images/csv-file.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/curve-properties.PNG",
+      "sha256": "de9f479e0805bd344b5ef9559669459f15209a527880c63f0d836b3fdcf4cf10",
+      "bytes": 28404,
+      "relative_path": "mystic_api/_images/curve-properties.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/cv-plot.PNG",
+      "sha256": "1ed9f6b62509aa5b2521c1c0ba186e2e8d7259a86e498eac1ca802025d0053f4",
+      "bytes": 184036,
+      "relative_path": "mystic_api/_images/cv-plot.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/data_upload_nested_dict.png",
+      "sha256": "111d7c58aacf3a5e12f46292d94fc1dc01f14a9d85a3c200428f899fdee544ee",
+      "bytes": 25522,
+      "relative_path": "mystic_api/_images/data_upload_nested_dict.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/database.PNG",
+      "sha256": "2439d3b14b0f43b0fc1e235c7d4eea48c5a57c1e4811d67267bdf8134d8864dd",
+      "bytes": 42238,
+      "relative_path": "mystic_api/_images/database.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/dbdata.PNG",
+      "sha256": "948ad1c72e063ae4ddfa32118ddfc4222612fa973735d98e95364f37b98c80da",
+      "bytes": 144922,
+      "relative_path": "mystic_api/_images/dbdata.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/doc-lookup.PNG",
+      "sha256": "9d949a4276280877ede8de887a78fedcc0f14f52427093473faabfb9f1822d31",
+      "bytes": 69371,
+      "relative_path": "mystic_api/_images/doc-lookup.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/figure.PNG",
+      "sha256": "71d5b3b2d16c4910d6fbddc478bdf1a0ac02daa32554ccdf60aae8a536f33ce9",
+      "bytes": 25482,
+      "relative_path": "mystic_api/_images/figure.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/file-editor.PNG",
+      "sha256": "d4e4168e8b88f2eb93a44c009a8643a8152a5acdc5396becb369267ce0597bbf",
+      "bytes": 61886,
+      "relative_path": "mystic_api/_images/file-editor.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/hd-plot.PNG",
+      "sha256": "ba3c16c6b227c13b8282f40cc8af1c8e0a061f2d06a0dcc416697aa2ea39d0b1",
+      "bytes": 240912,
+      "relative_path": "mystic_api/_images/hd-plot.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/help-command.PNG",
+      "sha256": "9a271ff7c438aabc20c556b8134552ddf0f00c8cae701e485fb01684080c6997",
+      "bytes": 103848,
+      "relative_path": "mystic_api/_images/help-command.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/idvgld-init.PNG",
+      "sha256": "5951fd1ca59734a95b31d6a6fbddc86c83ec8d68508421a4783f9b512f11e2eb",
+      "bytes": 47204,
+      "relative_path": "mystic_api/_images/idvgld-init.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/idvgld-log.PNG",
+      "sha256": "1b209b0ae757368722565f544cf22d4a3b07a1fcf8ac24693e309f6e4775179e",
+      "bytes": 25827,
+      "relative_path": "mystic_api/_images/idvgld-log.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/idvgld-target.PNG",
+      "sha256": "99bec98e43de5efc7ca038ddab4e772c84adf993ebfe70f819b02efeea324c45",
+      "bytes": 34909,
+      "relative_path": "mystic_api/_images/idvgld-target.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/iv-final.PNG",
+      "sha256": "3f9c5183175bc775be9acc29ce9df2866f4b7488893f5dd666cd71a6678ab85d",
+      "bytes": 249259,
+      "relative_path": "mystic_api/_images/iv-final.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/iv-initial.PNG",
+      "sha256": "0d69dbeb2fc01a1529477a56511668ba94b267f49bb11ef366ee2558a567524e",
+      "bytes": 211706,
+      "relative_path": "mystic_api/_images/iv-initial.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/iv-mid.PNG",
+      "sha256": "15b7e535f178147b9021809b971c1b1e71debb26e4453a40194e5dbb1beade57",
+      "bytes": 234107,
+      "relative_path": "mystic_api/_images/iv-mid.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/jj-iv.PNG",
+      "sha256": "7111c960a58c005cab13748703bf54051aaa216b736b37255b53a3c7016387de",
+      "bytes": 21626,
+      "relative_path": "mystic_api/_images/jj-iv.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/jj-temperature.PNG",
+      "sha256": "5beef393e376b247d14f9d61fdf2685728275ded23eb9befb06a3df13663dc0b",
+      "bytes": 71032,
+      "relative_path": "mystic_api/_images/jj-temperature.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/key.PNG",
+      "sha256": "0094c13a0f36fb209b5f16bc788efc0c1d9552146e0b6679ef158687058c3916",
+      "bytes": 48122,
+      "relative_path": "mystic_api/_images/key.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/layout.PNG",
+      "sha256": "d27b790a3f6cb3eeebf53e8fe3ce80e55b52f8c5e00edbf0bb5f0e6626d85bd9",
+      "bytes": 167849,
+      "relative_path": "mystic_api/_images/layout.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/model-explorer.PNG",
+      "sha256": "b625843ed1466c558095d9dece7deded7a5ed0c68c384fb1b3c30d02a1c9c8d8",
+      "bytes": 72967,
+      "relative_path": "mystic_api/_images/model-explorer.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/models.PNG",
+      "sha256": "df4e77d1f7cb1c6bd4058efa1ea3a8af3bcbeef8e56c75a3eaa30dffa70ff48f",
+      "bytes": 215855,
+      "relative_path": "mystic_api/_images/models.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/optimization.PNG",
+      "sha256": "2e5ab512db8707edd8fc0956dd6f93d3a6acd47a6e49b96ba6e2366d8e7700c0",
+      "bytes": 279887,
+      "relative_path": "mystic_api/_images/optimization.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/overview.PNG",
+      "sha256": "7fa11f9be0124c249d23a922e9b4b7dd3358d89fa879ce4ee5d90d09f2e0c29a",
+      "bytes": 410154,
+      "relative_path": "mystic_api/_images/overview.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/parallel-coords-filter.PNG",
+      "sha256": "d0466d056adf8c97e8e2182d6e0b4d2d41a09bfff56a6937b9d8d77fc63b7716",
+      "bytes": 210140,
+      "relative_path": "mystic_api/_images/parallel-coords-filter.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/parallel-coords.PNG",
+      "sha256": "fa6a6e5b6d1d5bb146264ca076f9f00e85f28317f748822f5b44c9afa65781de",
+      "bytes": 220038,
+      "relative_path": "mystic_api/_images/parallel-coords.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/param-sweep.PNG",
+      "sha256": "378db50580e1bc22de43337066dfd7fc6fc7bcef94299e8f194164cdf50c849b",
+      "bytes": 283876,
+      "relative_path": "mystic_api/_images/param-sweep.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/pca-scattermatrix.png",
+      "sha256": "9df19319a171051f5ff79e62f95a0cafad628df20fa33979576c2cec8f751e7c",
+      "bytes": 148806,
+      "relative_path": "mystic_api/_images/pca-scattermatrix.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/plot-groups.PNG",
+      "sha256": "b02b5a1c0972838dfab3aa7659208d6b28512a5c13bf2a2e4e61f1903b806a31",
+      "bytes": 2190,
+      "relative_path": "mystic_api/_images/plot-groups.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/plot-log-panel.PNG",
+      "sha256": "3717c9500144bbca9b685b8fa4c809cc0de4b85cb462e86606b74c9cbbd79b17",
+      "bytes": 91925,
+      "relative_path": "mystic_api/_images/plot-log-panel.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/plot-parameters.PNG",
+      "sha256": "2806e5074e8d477cd4a1527478b6a9e8bbb23ad9567fa569912ab5ae8a8174ad",
+      "bytes": 51106,
+      "relative_path": "mystic_api/_images/plot-parameters.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/plot-preferences.PNG",
+      "sha256": "c60b7ad7622c0896ba1a909ba6df42f4e35b564242a4879ee9706ee58d0c8a4f",
+      "bytes": 79531,
+      "relative_path": "mystic_api/_images/plot-preferences.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/rc-mod.PNG",
+      "sha256": "4de627ea642a05cc594ca7c7bac3801f06d35aa3a36916e96f03271f085df92b",
+      "bytes": 8718,
+      "relative_path": "mystic_api/_images/rc-mod.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/rf-data.PNG",
+      "sha256": "c2d27123d98207fd51b64baba09357b7642a4e74d02c4bd001b92ccbab808430",
+      "bytes": 110303,
+      "relative_path": "mystic_api/_images/rf-data.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/rf-polar.png",
+      "sha256": "c4e8e2712dc5e576e771a9d01f8f01d7853e431ff960a776e118b293e79181b6",
+      "bytes": 42491,
+      "relative_path": "mystic_api/_images/rf-polar.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/rf-smith.png",
+      "sha256": "22aa2d6f3c846710738372c928a846e5ed2cf33910940cf72320bbec89eb43ab",
+      "bytes": 34385,
+      "relative_path": "mystic_api/_images/rf-smith.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/run-toolbar.PNG",
+      "sha256": "30ea545e85e9017237686c7a9cf7d4d22d14858b3cca660df6c058fcbae04133",
+      "bytes": 4759,
+      "relative_path": "mystic_api/_images/run-toolbar.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/series-properties.PNG",
+      "sha256": "c6b4554b96977696ff612d9999769caa1205becbb36a9d847a0c728f2e748814",
+      "bytes": 21854,
+      "relative_path": "mystic_api/_images/series-properties.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/simdata.PNG",
+      "sha256": "181d51681e06eb389b84b10d7b16b852d9b460918a75b3abdd3bf19189ed44a5",
+      "bytes": 177028,
+      "relative_path": "mystic_api/_images/simdata.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/smith-chart.PNG",
+      "sha256": "6166c6f09c3601827e4f8db1d28b5edbecb2bedcd503004a88c065b369f55675",
+      "bytes": 170503,
+      "relative_path": "mystic_api/_images/smith-chart.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/syntax-checker-clean.PNG",
+      "sha256": "3705ac1e87c4233eae31f499004e09db031e6a6dda3787713b55da7872a2833a",
+      "bytes": 19667,
+      "relative_path": "mystic_api/_images/syntax-checker-clean.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/syntax-checker-warning.PNG",
+      "sha256": "38ae78a9d57a1b410b23a107aad73c969d3d1c0bf4a3c9936e7319c2ee1b82d9",
+      "bytes": 28573,
+      "relative_path": "mystic_api/_images/syntax-checker-warning.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/target-csv.PNG",
+      "sha256": "d2e86bd799bc4de5c72522520b51a40d7ac82dd9a5a1fca24636da4730c4bac3",
+      "bytes": 234730,
+      "relative_path": "mystic_api/_images/target-csv.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/target.PNG",
+      "sha256": "6ee0cdb9d543042886ba658cb0954dd856b74c33c3fd2240e0f6aabdcafa535e",
+      "bytes": 261875,
+      "relative_path": "mystic_api/_images/target.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/variable-explorer.PNG",
+      "sha256": "58a8fe22c9c4682a95013ab3491f07a956829a2f0a49bb08bef278dfa215a4e4",
+      "bytes": 109928,
+      "relative_path": "mystic_api/_images/variable-explorer.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/wizards-panel.PNG",
+      "sha256": "aad4cfcb3e79225e22c3f57bf4c0f2f9f96e1fd0852e03a8b73a52a6f8f4b20b",
+      "bytes": 38955,
+      "relative_path": "mystic_api/_images/wizards-panel.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_images/wizards_dialog.PNG",
+      "sha256": "8aac05814c75e053eac6b212ece2ef1cb25e50c785e44467bd5b48f5db02e3b0",
+      "bytes": 16701,
+      "relative_path": "mystic_api/_images/wizards_dialog.PNG"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/api_docs.rst.txt",
+      "sha256": "487ed776a42371a90fcc8dbaa58fdda8c49daae4beeb636722f643d8c26ffd08",
+      "bytes": 4511,
+      "relative_path": "mystic_api/_sources/api_docs.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/color.rst.txt",
+      "sha256": "762f7a6fed40a49e171b6b3d51833ac44f76e70fa53d4634b8170f79c988bd24",
+      "bytes": 112,
+      "relative_path": "mystic_api/_sources/color.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/common_libraries.rst.txt",
+      "sha256": "4ab6ba6d5a5db46f56fd769ae03a1e462ed1ce8f49df90774cd6b82db9f0a449",
+      "bytes": 1273,
+      "relative_path": "mystic_api/_sources/common_libraries.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/copyright.rst.txt",
+      "sha256": "0f6b1633d71917ab520a7b1932b3686bcab9cbd4a1c14954d00fb78071cb0e15",
+      "bytes": 1836,
+      "relative_path": "mystic_api/_sources/copyright.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/correctors.rst.txt",
+      "sha256": "9f488ba7450228a0a74dadfddb7775ae2ce7b977f7ffb14c366035aa0fe7cbc6",
+      "bytes": 7835,
+      "relative_path": "mystic_api/_sources/correctors.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/correlated_parameters.rst.txt",
+      "sha256": "07d9ab9dca8dc29f7032f4c3e36b0527584c15ef4f32edbdb15605e5658af580",
+      "bytes": 1039,
+      "relative_path": "mystic_api/_sources/correlated_parameters.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/data_upload.rst.txt",
+      "sha256": "4243f8c7395f46c6a7449a4cf371ebaf5b15b5b2e72d9c9edf4e16114fcfb0c1",
+      "bytes": 10708,
+      "relative_path": "mystic_api/_sources/data_upload.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/engine.rst.txt",
+      "sha256": "ec66b270277c47e1fa97b077751521b9aaea5d59fa9ca5d0ec0289521b70bb7c",
+      "bytes": 79,
+      "relative_path": "mystic_api/_sources/engine.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/examples.rst.txt",
+      "sha256": "0980746419472d9b4fae1ac9af85436ec8cdeedb2097e3df8b547c948de2962a",
+      "bytes": 6453,
+      "relative_path": "mystic_api/_sources/examples.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/index.rst.txt",
+      "sha256": "26dbebb5ece1253cbd5e0ff69193f3563763a1aad788a5c30f895eae580abbeb",
+      "bytes": 525,
+      "relative_path": "mystic_api/_sources/index.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/introduction.rst.txt",
+      "sha256": "9e0352dd638e0cc6f01a2755213a121d146105d0c9c4c79a0b261d28e61f6f6e",
+      "bytes": 20783,
+      "relative_path": "mystic_api/_sources/introduction.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/mystic_gui.rst.txt",
+      "sha256": "6643d6e78234ca4934012852f207d0ea9e6f533c5956604bd130e58e1bd4e10e",
+      "bytes": 40642,
+      "relative_path": "mystic_api/_sources/mystic_gui.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/mystic_ml.rst.txt",
+      "sha256": "53a2c54350204f308bb13093873f0bff476d9ec86e93662afc101abc2f96068a",
+      "bytes": 12149,
+      "relative_path": "mystic_api/_sources/mystic_ml.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/specific_use_cases.rst.txt",
+      "sha256": "55e36788db70da6b179dd476bbdbbd46ccc7b4352efdb995d9c71be1196fc8a8",
+      "bytes": 45042,
+      "relative_path": "mystic_api/_sources/specific_use_cases.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/spice_model_extraction.rst.txt",
+      "sha256": "d3fbec36579a4fea4d2b6c38420bdf02945c84f850a8283334110f30433ff3ac",
+      "bytes": 71359,
+      "relative_path": "mystic_api/_sources/spice_model_extraction.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/user_guide.rst.txt",
+      "sha256": "160112cdbd41caa72435506bb3f3da32b2b91fc05c02bf148bfcc6d85b71a7ec",
+      "bytes": 346,
+      "relative_path": "mystic_api/_sources/user_guide.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/CompactModels/Netlist.rst.txt",
+      "sha256": "e4b8f4b774bb6694a35151c040ded0255651eb8102d93e6c6cbdd8014c1a1ccf",
+      "bytes": 2710,
+      "relative_path": "mystic_api/_sources/CompactModels/Netlist.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/DataStructures/SimData.rst.txt",
+      "sha256": "b1ad8e226709167010d90b46ded056289d238c6fddfc92a4773d85bf7404c691",
+      "bytes": 2818,
+      "relative_path": "mystic_api/_sources/DataStructures/SimData.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Database/MysticDB.rst.txt",
+      "sha256": "26108adf94308b088d499da2c68f70a95e7c6bc47c2b246d521540d158d56245",
+      "bytes": 4870,
+      "relative_path": "mystic_api/_sources/Database/MysticDB.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Multistage/ExtractionUtils.rst.txt",
+      "sha256": "fff7429c3bcb28c6f9719fb9c57b0a819e46e810728d7e42342cd72e89407f7f",
+      "bytes": 5399,
+      "relative_path": "mystic_api/_sources/Multistage/ExtractionUtils.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Optimizers/Optimizer.rst.txt",
+      "sha256": "4d05506fa443190b5a5190fadd6e3948690a21c2ae828ef454a96d12402d0a74",
+      "bytes": 550,
+      "relative_path": "mystic_api/_sources/Optimizers/Optimizer.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Optimizers/mkl_opt.rst.txt",
+      "sha256": "2bc57b56840aec192f7cad00d64cd0984b5676bb4f2dfaa8022d19732c38b313",
+      "bytes": 4921,
+      "relative_path": "mystic_api/_sources/Optimizers/mkl_opt.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Optimizers/Optimizers/Optimizer.rst.txt",
+      "sha256": "5bae53ae225e5a219397371286831b2d480a18b6e3bb3d0a24cda3bece452226",
+      "bytes": 28186,
+      "relative_path": "mystic_api/_sources/Optimizers/Optimizers/Optimizer.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Optimizers/Parameters/Parameter.rst.txt",
+      "sha256": "9488f589348c9469d62a1181e2207889b453eb8e10196d099fe3c84bef0c1999",
+      "bytes": 1183,
+      "relative_path": "mystic_api/_sources/Optimizers/Parameters/Parameter.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/Simulator/Simulator.rst.txt",
+      "sha256": "b7942421f8e21203bd736cf9816dd0c4e32aea7a135f512cf718bcf6c61045ca",
+      "bytes": 1073,
+      "relative_path": "mystic_api/_sources/Simulator/Simulator.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/example-files.rst.txt",
+      "sha256": "305a1833ea9d26fbf3f86ccff2c57782af900ea3aeeff0a51e749563c728ea7d",
+      "bytes": 676,
+      "relative_path": "mystic_api/_sources/gui/example-files.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/examples.rst.txt",
+      "sha256": "eaa2d3b6ccb08fedab2ace5bdef5bb0642866865414bfcdcbd8c41fde224e3f1",
+      "bytes": 13204,
+      "relative_path": "mystic_api/_sources/gui/examples.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/imageplotobject.rst.txt",
+      "sha256": "c67e7de8ea4e3bdebfe6ea6f793905827d1e04a53bf3710fc75857f47f7dddd2",
+      "bytes": 97,
+      "relative_path": "mystic_api/_sources/gui/imageplotobject.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/mplmultiscatterplot.rst.txt",
+      "sha256": "2a7327926637bd14ddc21f638207ea838aea76cc49a0f68d8781fda1dd05cb93",
+      "bytes": 158,
+      "relative_path": "mystic_api/_sources/gui/mplmultiscatterplot.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/mplplotobject.rst.txt",
+      "sha256": "fabc51f33fbff8f27f93103f320951f41f13c805110e9955aaa0bba4069858c4",
+      "bytes": 164,
+      "relative_path": "mystic_api/_sources/gui/mplplotobject.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/parallelcoordplotobject.rst.txt",
+      "sha256": "044ead0a19abaeabf4e85bff7dbb15af134c12fb4e588093c38926c82bb71e0e",
+      "bytes": 373,
+      "relative_path": "mystic_api/_sources/gui/parallelcoordplotobject.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/plotobject.rst.txt",
+      "sha256": "a17596933eb4ba5c664c69c0a5e046ee7bccfe1b8f7b96bf960849e4565e0665",
+      "bytes": 68,
+      "relative_path": "mystic_api/_sources/gui/plotobject.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/sliderplotobject.rst.txt",
+      "sha256": "1d85fd03a94ba6b689beae2b67ac02be5973c1b9e6e17000e159ee82111aafa3",
+      "bytes": 121,
+      "relative_path": "mystic_api/_sources/gui/sliderplotobject.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_sources/gui/user_api.rst.txt",
+      "sha256": "6f0472cbe81ca768808309720fb32b2d4e164a92d1131d98b56030f5c010aad8",
+      "bytes": 8466,
+      "relative_path": "mystic_api/_sources/gui/user_api.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/basic.css",
+      "sha256": "55e3151630469fe605cc1730536cc11c0f3c5685796f4ea1392c24709b094386",
+      "bytes": 14692,
+      "relative_path": "mystic_api/_static/basic.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/custom.css",
+      "sha256": "1329c13459ae3130e4a92756ae122adf4e34db24842446b120f7aee1a030e4ca",
+      "bytes": 612,
+      "relative_path": "mystic_api/_static/custom.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/doctools.js",
+      "sha256": "b5cad4208b5895e6182a3d6ba2a28c38ba4c3ed7ddff4635839aa430eee59614",
+      "bytes": 10766,
+      "relative_path": "mystic_api/_static/doctools.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/documentation_options.js",
+      "sha256": "268ec91c3ee776afe8e7f52d3b68d7a9f367997866f1470bb98533a9fd977364",
+      "bytes": 426,
+      "relative_path": "mystic_api/_static/documentation_options.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/file.png",
+      "sha256": "5c4bc9a16aebf38c4b950f59b8e501ca36495328cb9eb622218bce9064a35e3e",
+      "bytes": 286,
+      "relative_path": "mystic_api/_static/file.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/graphviz.css",
+      "sha256": "b82eb1e314b2abf469c1e2d5b55e43a729fd854acd9108ba651105c7a67bf040",
+      "bytes": 299,
+      "relative_path": "mystic_api/_static/graphviz.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/jquery-3.5.1.js",
+      "sha256": "416a3b2c3bf16d64f6b5b6d0f7b079df2267614dd6847fc2f3271b4409233c37",
+      "bytes": 287630,
+      "relative_path": "mystic_api/_static/jquery-3.5.1.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/jquery.js",
+      "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d",
+      "bytes": 89476,
+      "relative_path": "mystic_api/_static/jquery.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/language_data.js",
+      "sha256": "b8955c86f6121115098eed872bd279bab64b83af333694f70b5632e6deb2e1e9",
+      "bytes": 10854,
+      "relative_path": "mystic_api/_static/language_data.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/minus.png",
+      "sha256": "47e7fc50db3699f1ca41ce9a2ffa202c00c5d1d5180c55f62ba859b1bd6cc008",
+      "bytes": 90,
+      "relative_path": "mystic_api/_static/minus.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/plus.png",
+      "sha256": "54115199b96a130cba02147c47c0deb43dcc9b9f08b5162bba8642b34980ac63",
+      "bytes": 90,
+      "relative_path": "mystic_api/_static/plus.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/pygments.css",
+      "sha256": "1accd27ffdaa3456771214dbc2f4d841d9ebe9324da2b23ac0333d35756f25e5",
+      "bytes": 4929,
+      "relative_path": "mystic_api/_static/pygments.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/searchtools.js",
+      "sha256": "d6b5ee21edd7b46c029c5111326719dcec5c5f52368704a93b2d6485cb22414c",
+      "bytes": 16634,
+      "relative_path": "mystic_api/_static/searchtools.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/underscore-1.13.1.js",
+      "sha256": "cc10f799cd0f6b65f95c4012445497e5ba3cb9f51964a9468940b27bde98b487",
+      "bytes": 68420,
+      "relative_path": "mystic_api/_static/underscore-1.13.1.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/underscore.js",
+      "sha256": "218fb1c1fc72e9af6b866f430be2a67fa376392b4db2f4dbf32772671b6ae55c",
+      "bytes": 19530,
+      "relative_path": "mystic_api/_static/underscore.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/badge_only.css",
+      "sha256": "c4050fa47d8bb6297c79811f663e6cfa32cb6b783b47eaeddd6ba50d5cf1a666",
+      "bytes": 3275,
+      "relative_path": "mystic_api/_static/css/badge_only.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/theme.css",
+      "sha256": "0fe1c43f95064ebe41691b2429011cd1633d7c4a460fa444b0b26dd4aafcf2fd",
+      "bytes": 123687,
+      "relative_path": "mystic_api/_static/css/theme.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/Roboto-Slab-Bold.woff",
+      "sha256": "9fec87cadbe2413b255f1ec577573a83f1ca2e1c37aa023dbebcd3a7b864636a",
+      "bytes": 87624,
+      "relative_path": "mystic_api/_static/css/fonts/Roboto-Slab-Bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/Roboto-Slab-Bold.woff2",
+      "sha256": "1a0c024dd1a267c52d5575469ffe8570d1e84164de7d393cf3414bafd17d7a0c",
+      "bytes": 67312,
+      "relative_path": "mystic_api/_static/css/fonts/Roboto-Slab-Bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/Roboto-Slab-Regular.woff",
+      "sha256": "9f32630e2c0c5135bf1e86e36cb65b3932e4410644235bc2bd995e9c7f6ff117",
+      "bytes": 86288,
+      "relative_path": "mystic_api/_static/css/fonts/Roboto-Slab-Regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/Roboto-Slab-Regular.woff2",
+      "sha256": "874e42222856d7af03b3f438d21d923a4280d47fe67c48510e2174a1579795ef",
+      "bytes": 66444,
+      "relative_path": "mystic_api/_static/css/fonts/Roboto-Slab-Regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/fontawesome-webfont.eot",
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "bytes": 165742,
+      "relative_path": "mystic_api/_static/css/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/fontawesome-webfont.svg",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "bytes": 444379,
+      "relative_path": "mystic_api/_static/css/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/fontawesome-webfont.ttf",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "bytes": 165548,
+      "relative_path": "mystic_api/_static/css/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/fontawesome-webfont.woff",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "bytes": 98024,
+      "relative_path": "mystic_api/_static/css/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/fontawesome-webfont.woff2",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "bytes": 77160,
+      "relative_path": "mystic_api/_static/css/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-bold-italic.woff",
+      "sha256": "980c8592e5488df256192c999e92db8fd302db8cd8909b7fa266a684e37e45f8",
+      "bytes": 323344,
+      "relative_path": "mystic_api/_static/css/fonts/lato-bold-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-bold-italic.woff2",
+      "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d",
+      "bytes": 193308,
+      "relative_path": "mystic_api/_static/css/fonts/lato-bold-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-bold.woff",
+      "sha256": "0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e",
+      "bytes": 309728,
+      "relative_path": "mystic_api/_static/css/fonts/lato-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-bold.woff2",
+      "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6",
+      "bytes": 184912,
+      "relative_path": "mystic_api/_static/css/fonts/lato-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-normal-italic.woff",
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "bytes": 328412,
+      "relative_path": "mystic_api/_static/css/fonts/lato-normal-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-normal-italic.woff2",
+      "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc",
+      "bytes": 195704,
+      "relative_path": "mystic_api/_static/css/fonts/lato-normal-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-normal.woff",
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "bytes": 309192,
+      "relative_path": "mystic_api/_static/css/fonts/lato-normal.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/css/fonts/lato-normal.woff2",
+      "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f",
+      "bytes": 182708,
+      "relative_path": "mystic_api/_static/css/fonts/lato-normal.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Inconsolata-Bold.ttf",
+      "sha256": "c268fae6dbf17a27f648218fac958b86dc38e169f6315f0b02866966f56b42bf",
+      "bytes": 109948,
+      "relative_path": "mystic_api/_static/fonts/Inconsolata-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Inconsolata-Regular.ttf",
+      "sha256": "e28c150b4390e5fd59aedc2c150b150086fbcba0b4dbde08ac260d6db65018d6",
+      "bytes": 96964,
+      "relative_path": "mystic_api/_static/fonts/Inconsolata-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Inconsolata.ttf",
+      "sha256": "c2d9721f4afc45e77b103c9ae735f44a4ffc5603e19b240de9857f87e9ae2bf4",
+      "bytes": 63184,
+      "relative_path": "mystic_api/_static/fonts/Inconsolata.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato-Bold.ttf",
+      "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+      "bytes": 656544,
+      "relative_path": "mystic_api/_static/fonts/Lato-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato-Regular.ttf",
+      "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+      "bytes": 656568,
+      "relative_path": "mystic_api/_static/fonts/Lato-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab-Bold.ttf",
+      "sha256": "ba12d2eab1fa765b6b05398fa7e047dd76293f0c051ce57a8f7b0c591c14d42b",
+      "bytes": 170616,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab-Regular.ttf",
+      "sha256": "13aa5f54c6f2fa2e388fe0e675cdbcc6a81f6270a8bf9c03a5df8af9cb022810",
+      "bytes": 169064,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/fontawesome-webfont.eot",
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "bytes": 165742,
+      "relative_path": "mystic_api/_static/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/fontawesome-webfont.svg",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "bytes": 444379,
+      "relative_path": "mystic_api/_static/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/fontawesome-webfont.ttf",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "bytes": 165548,
+      "relative_path": "mystic_api/_static/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/fontawesome-webfont.woff",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "bytes": 98024,
+      "relative_path": "mystic_api/_static/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/fontawesome-webfont.woff2",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "bytes": 77160,
+      "relative_path": "mystic_api/_static/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bold.eot",
+      "sha256": "b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1",
+      "bytes": 256056,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bold.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bold.ttf",
+      "sha256": "f71f833c099f450606f8107b83ef208ae918c0ea00779466d45e9be96b0bc7cc",
+      "bytes": 600856,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bold.woff",
+      "sha256": "0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e",
+      "bytes": 309728,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bold.woff2",
+      "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6",
+      "bytes": 184912,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bolditalic.eot",
+      "sha256": "b3d585879a02f48c5d43d8f91d06b167e367a31934bb3b8147c0a90b5ca32bfc",
+      "bytes": 266158,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bolditalic.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bolditalic.ttf",
+      "sha256": "f98d040631714eabffd0ffb747576674fa78c2910f6d9e3dc0c58481d03c1898",
+      "bytes": 622572,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bolditalic.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bolditalic.woff",
+      "sha256": "980c8592e5488df256192c999e92db8fd302db8cd8909b7fa266a684e37e45f8",
+      "bytes": 323344,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bolditalic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-bolditalic.woff2",
+      "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d",
+      "bytes": 193308,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-bolditalic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-italic.eot",
+      "sha256": "bc24dbe04f5b2415678f978e7e2f630cc6610670d684e088e73ad29c439eafe3",
+      "bytes": 268604,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-italic.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-italic.ttf",
+      "sha256": "12d825af88eafea1ce3aa469f83c03acaecd0d03f690f409c8643529f1205b4f",
+      "bytes": 639388,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-italic.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-italic.woff",
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "bytes": 328412,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-italic.woff2",
+      "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc",
+      "bytes": 195704,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-regular.eot",
+      "sha256": "e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3",
+      "bytes": 253461,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-regular.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-regular.ttf",
+      "sha256": "089ab6d4a57e0e6c4dd3b681b6fd50a5184f1b902429d35e1227e52d6ccad1bd",
+      "bytes": 607720,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-regular.woff",
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "bytes": 309192,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/Lato/lato-regular.woff2",
+      "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f",
+      "bytes": 182708,
+      "relative_path": "mystic_api/_static/fonts/Lato/lato-regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.eot",
+      "sha256": "4438991a12ff951cc8d0e83348ec06d9f910591b1b014c476e9595d4da099e48",
+      "bytes": 79520,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.ttf",
+      "sha256": "ba12d2eab1fa765b6b05398fa7e047dd76293f0c051ce57a8f7b0c591c14d42b",
+      "bytes": 170616,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff",
+      "sha256": "9fec87cadbe2413b255f1ec577573a83f1ca2e1c37aa023dbebcd3a7b864636a",
+      "bytes": 87624,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff2",
+      "sha256": "1a0c024dd1a267c52d5575469ffe8570d1e84164de7d393cf3414bafd17d7a0c",
+      "bytes": 67312,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.eot",
+      "sha256": "b3809b71d417c6c225e77a55880aa7915b4e4b4f77a5e2d243f3563731e7f55c",
+      "bytes": 78331,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf",
+      "sha256": "13aa5f54c6f2fa2e388fe0e675cdbcc6a81f6270a8bf9c03a5df8af9cb022810",
+      "bytes": 169064,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff",
+      "sha256": "9f32630e2c0c5135bf1e86e36cb65b3932e4410644235bc2bd995e9c7f6ff117",
+      "bytes": 86288,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2",
+      "sha256": "874e42222856d7af03b3f438d21d923a4280d47fe67c48510e2174a1579795ef",
+      "bytes": 66444,
+      "relative_path": "mystic_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/js/badge_only.js",
+      "sha256": "f0a4808d04c4d55378751ac096a8376b64b1a704c82584b0ee590212cf413013",
+      "bytes": 934,
+      "relative_path": "mystic_api/_static/js/badge_only.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/js/html5shiv-printshiv.min.js",
+      "sha256": "b42a7e949a6e21d66b30fbbb4a22deafd9e0ccabc04f0fa2907fc6252fdf165f",
+      "bytes": 4370,
+      "relative_path": "mystic_api/_static/js/html5shiv-printshiv.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/js/html5shiv.min.js",
+      "sha256": "f6e0283561ddb33b140e14977ffad57163aa28f7e2e7ff15e51e1475b6657b60",
+      "bytes": 2734,
+      "relative_path": "mystic_api/_static/js/html5shiv.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/js/modernizr.min.js",
+      "sha256": "cf25ec18f223f4c51ce1128a42e644cdc2244d88f89d1a51440d9dbe51f4efe8",
+      "bytes": 15414,
+      "relative_path": "mystic_api/_static/js/modernizr.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/_static/js/theme.js",
+      "sha256": "b1c4d09da3a719c689344888584ef18c52c4bbcff3b7aaed7752fdff7a47050c",
+      "bytes": 4916,
+      "relative_path": "mystic_api/_static/js/theme.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/examples/14nmFinFET.zip",
+      "sha256": "9f703ca1afa455a5530c5596a410b52e73d776d3f9cf08259fc96cc3f4935b46",
+      "bytes": 58579,
+      "relative_path": "mystic_api/examples/14nmFinFET.zip"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/example-files.html",
+      "sha256": "a8ab5ed2ea5a9cdf9bb3e1b672912161db6b6a36c13ca5fabb014e1aaee7f58b",
+      "bytes": 23254,
+      "relative_path": "mystic_api/gui/example-files.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/examples.html",
+      "sha256": "91d7a92da5a95a32121a680ac6f2213024183026e861b97c63a7e06841df5f33",
+      "bytes": 31105,
+      "relative_path": "mystic_api/gui/examples.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/imageplotobject.html",
+      "sha256": "d471d2b4e124e6c8cdd4c7b997f8b7ead525f4c65cf20cefc3b3f33bd182f1f3",
+      "bytes": 6592,
+      "relative_path": "mystic_api/gui/imageplotobject.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/mplmultiscatterplot.html",
+      "sha256": "c04afa4e02f3421cfb198c85db78b5785686c4548f67251320409a9eede7628c",
+      "bytes": 14311,
+      "relative_path": "mystic_api/gui/mplmultiscatterplot.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/mplplotobject.html",
+      "sha256": "352625a4ae5e4db9d4857e0aad8e629353c26c77b011735a535b83a62a5441bb",
+      "bytes": 15066,
+      "relative_path": "mystic_api/gui/mplplotobject.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/parallelcoordplotobject.html",
+      "sha256": "2362b6633322adf29c092e0d0b6b8b37729f2e7db4601dd762322efc0b5c39f0",
+      "bytes": 38425,
+      "relative_path": "mystic_api/gui/parallelcoordplotobject.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/plotobject.html",
+      "sha256": "51f6b4cdca6adc7e28f1a3b7913ec139d89c43147c376289a655faa47b6505d4",
+      "bytes": 45995,
+      "relative_path": "mystic_api/gui/plotobject.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/sliderplotobject.html",
+      "sha256": "d9858aec4c49569d1556df023cc297975df3f576aea6fbdabc0aa227f5311475",
+      "bytes": 15251,
+      "relative_path": "mystic_api/gui/sliderplotobject.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/mystic_api/gui/user_api.html",
+      "sha256": "c7cbd9466c199e23c75ca8261e73625a12e0db578c7d8a52ac95cc2d2284c560",
+      "bytes": 180319,
+      "relative_path": "mystic_api/gui/user_api.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api_docs.html",
+      "sha256": "80d44985ee051fb7c565e26d779cfe8937fde4a22af2af9c234ae7474461bf9c",
+      "bytes": 15470,
+      "relative_path": "opt_api/api_docs.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/copyright.html",
+      "sha256": "c2bdb9559dd597d19254cc89a4d3ebb13b5d91684b31b8ebf9f739e300f90b51",
+      "bytes": 8658,
+      "relative_path": "opt_api/copyright.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/genindex.html",
+      "sha256": "b2e7a077566424c8b51e6013f225ef397df73f1d11a4ccff419c95c42deb9c07",
+      "bytes": 50871,
+      "relative_path": "opt_api/genindex.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/index.html",
+      "sha256": "60d807d33caf95359404517dc3de6dcd10e2d3af97478a4c9de2b9b14e7822c7",
+      "bytes": 8474,
+      "relative_path": "opt_api/index.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/objects.inv",
+      "sha256": "88cd0958de785ec45cd66992b87c5d582c29764493d6f8d057eddde28e197c39",
+      "bytes": 2675,
+      "relative_path": "opt_api/objects.inv"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/search.html",
+      "sha256": "f1eed3079bbea280a65b520ec9c6f8edd3eb982ff35a6129a90d41bb445c1ea7",
+      "bytes": 4966,
+      "relative_path": "opt_api/search.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/searchindex.js",
+      "sha256": "9be9191d1ea3fc99acb0d4c1f313b08c10ad91ca16fa5821adbf04d974d57077",
+      "bytes": 57488,
+      "relative_path": "opt_api/searchindex.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/user_guide.html",
+      "sha256": "051ce4944f85342c9aecf2b97068f8439b0fca4c341a7740701900dc2962110d",
+      "bytes": 10056,
+      "relative_path": "opt_api/user_guide.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/ee_sensitivity.png",
+      "sha256": "5c74aea435f37261351d74f08b4eba1c1a7f9273849405f2a228ac6abe798a64",
+      "bytes": 11682,
+      "relative_path": "opt_api/_images/ee_sensitivity.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/func_lin.png",
+      "sha256": "af02542f247e6b87f8ac0caa0e7d09c97fef72a666a72f42c05abf1640029597",
+      "bytes": 12410,
+      "relative_path": "opt_api/_images/func_lin.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/func_log.png",
+      "sha256": "6ea959f5709682f700fc14b7fa29ab3cd09d6fc8adb00278f1934b036ce6d4ab",
+      "bytes": 15845,
+      "relative_path": "opt_api/_images/func_log.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity.png",
+      "sha256": "7757d1761ade5d27a2faecd7258a19ac93d44a8cb6ee428468c5bb777edcfda3",
+      "bytes": 14456,
+      "relative_path": "opt_api/_images/sensitivity.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity_evaluations_err.png",
+      "sha256": "6e7f97938736a5cfcc7ca762b7171598525b73af048cddd423e24a7bd1d95094",
+      "bytes": 33820,
+      "relative_path": "opt_api/_images/sensitivity_evaluations_err.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity_evaluations_err2.png",
+      "sha256": "a1c57c1bf1308409ef67e1424b1adece4ef13c07b9a81c6876d9da784719b89c",
+      "bytes": 27683,
+      "relative_path": "opt_api/_images/sensitivity_evaluations_err2.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity_sigma_mustar_RMSD.png",
+      "sha256": "ff99f5548b7a7ee3a9a1df67f7124283bc34e4f43f201a53626b77b870f6e579",
+      "bytes": 12929,
+      "relative_path": "opt_api/_images/sensitivity_sigma_mustar_RMSD.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity_sigma_mustar_err.png",
+      "sha256": "90ea778d6ec8656d9e61a1329489a8527a1501535dc09b4d9db255495dcc5544",
+      "bytes": 13243,
+      "relative_path": "opt_api/_images/sensitivity_sigma_mustar_err.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/sensitivity_sigma_mustar_err2.png",
+      "sha256": "f8699bd1b4c668d9385301b08dd5b83adaeee2e3dc8dc502bb48b4173b9e7c16",
+      "bytes": 12164,
+      "relative_path": "opt_api/_images/sensitivity_sigma_mustar_err2.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_images/trajectories.png",
+      "sha256": "8f4a8f2d57ff7d70b78c506a0cdfbe36596913387338673ac22f58cfa81ee665",
+      "bytes": 20169,
+      "relative_path": "opt_api/_images/trajectories.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/index.html",
+      "sha256": "023a550597a459b2bc35c5e9f457f3282401a665142df4d42c3c19ba071621ed",
+      "bytes": 5661,
+      "relative_path": "opt_api/_modules/index.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/fitter.html",
+      "sha256": "76b05c076761f7e8f36ab5640866a8c4835bbc5b60a38bf529398a9e96f84b2f",
+      "bytes": 316146,
+      "relative_path": "opt_api/_modules/optimizer/fitter.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/models/gp_kernel.html",
+      "sha256": "e3ea8f5d72b5624b4fc28a1405b43922d4594853da0854437289b8aeeb52c674",
+      "bytes": 244417,
+      "relative_path": "opt_api/_modules/optimizer/models/gp_kernel.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/models/rsm.html",
+      "sha256": "b842430d28dbbf74bfd6d3c14bce6b5e22ad28a69440834394c503a4b0660dbc",
+      "bytes": 384589,
+      "relative_path": "opt_api/_modules/optimizer/models/rsm.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/parameters/parameter_space.html",
+      "sha256": "d4760ff91eaeb3d0a6450c38a364cc70b7000c77a16e518bd0ffc8f1ede3ad0c",
+      "bytes": 173301,
+      "relative_path": "opt_api/_modules/optimizer/parameters/parameter_space.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/parameters/parameter_transform.html",
+      "sha256": "7b23f14aca95ac99063177a0f995b6d9067ac92d6d6d6e7b17e1a6e6fe40fe55",
+      "bytes": 193062,
+      "relative_path": "opt_api/_modules/optimizer/parameters/parameter_transform.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/sampling/sampling.html",
+      "sha256": "7c76f0aa2f40eb91b0fc4b10da867677889a8198b822873fc2851ac436efa44c",
+      "bytes": 133997,
+      "relative_path": "opt_api/_modules/optimizer/sampling/sampling.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/sampling/swbdoe.html",
+      "sha256": "eb0fbce232cb155e95c7849d8b00cb5f03aca2a115bd5df156c55097e9a39481",
+      "bytes": 62597,
+      "relative_path": "opt_api/_modules/optimizer/sampling/swbdoe.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/sensitivity/screening_analysis.html",
+      "sha256": "df52552a272283c26c1ef4094d3022322298d0a81450dda6c67e113a32109e68",
+      "bytes": 54621,
+      "relative_path": "opt_api/_modules/optimizer/sensitivity/screening_analysis.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/sensitivity/sensitivity_analysis.html",
+      "sha256": "826f5acf3ea3ed7a64cf0be4e4a5ca64319cfd4bf8d5022764ac975a6e43a191",
+      "bytes": 372634,
+      "relative_path": "opt_api/_modules/optimizer/sensitivity/sensitivity_analysis.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/targets/cost_functions.html",
+      "sha256": "ddfa7eefa03d2256b720cb2d00d88f7b71818e9ebd4eb7aea7acb0867ca70a32",
+      "bytes": 117307,
+      "relative_path": "opt_api/_modules/optimizer/targets/cost_functions.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/targets/target.html",
+      "sha256": "12d0ceb3ca6b8e4933f806c6a7ebafe03293eb17845faaf725a3490007d5a4de",
+      "bytes": 81404,
+      "relative_path": "opt_api/_modules/optimizer/targets/target.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_modules/optimizer/utils/test_functions.html",
+      "sha256": "eaadae845d2c5aacf8eb90d01e31ef38c1ea4448c9d18145d544fec02b124ca0",
+      "bytes": 169134,
+      "relative_path": "opt_api/_modules/optimizer/utils/test_functions.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api_docs.rst.txt",
+      "sha256": "e6feecf0198e4d29527563f33567b866be03545a6ef10bde269510453bfd5845",
+      "bytes": 548,
+      "relative_path": "opt_api/_sources/api_docs.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/copyright.rst.txt",
+      "sha256": "0f6b1633d71917ab520a7b1932b3686bcab9cbd4a1c14954d00fb78071cb0e15",
+      "bytes": 1836,
+      "relative_path": "opt_api/_sources/copyright.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/index.rst.txt",
+      "sha256": "f8d760c331aa63288580ec3c2c0db3930c3dcdc38ddcad768aa47831bb88a96b",
+      "bytes": 459,
+      "relative_path": "opt_api/_sources/index.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/user_guide.rst.txt",
+      "sha256": "2ac577c19e08681a4edf20051e98a1b5bacd947f25f34b7a3f107d68d6be3de5",
+      "bytes": 313,
+      "relative_path": "opt_api/_sources/user_guide.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/cost.rst.txt",
+      "sha256": "123c2a1ee5a8cb39047da77707440989afd58513ed5b3e4104fbf37f0adc9276",
+      "bytes": 1098,
+      "relative_path": "opt_api/_sources/api/cost.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/gp_kernel.rst.txt",
+      "sha256": "e07ae3c61a72bf7eb5363e951917a3666ab67748a68333053aee12a7d2646c71",
+      "bytes": 983,
+      "relative_path": "opt_api/_sources/api/gp_kernel.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/opt.rst.txt",
+      "sha256": "adde99bfe95d6676d1c4c2305f49cf39b89b016b4b1cb88fd99eb3ee752ad71d",
+      "bytes": 360,
+      "relative_path": "opt_api/_sources/api/opt.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/opt_params.rst.txt",
+      "sha256": "8b5322c60f76d6068b8debd0a9e581553c3da849b8dea2817109374ea697225b",
+      "bytes": 158,
+      "relative_path": "opt_api/_sources/api/opt_params.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/param_trans.rst.txt",
+      "sha256": "5e35c31dbe192c7c7f2f71b0baaf35ff0b5302e837d74e02a7243a4cd56c7e94",
+      "bytes": 1600,
+      "relative_path": "opt_api/_sources/api/param_trans.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/pspace.rst.txt",
+      "sha256": "7a5d9868a52c43922b21c62e37b0055b9a300e98e2cca2d0b18f818dc8421f43",
+      "bytes": 145,
+      "relative_path": "opt_api/_sources/api/pspace.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/residual.rst.txt",
+      "sha256": "a7918e8bc56cc8f520b352ebb64cc9ebaec0f501e14bde9492bd1fb2a3cfb3eb",
+      "bytes": 485,
+      "relative_path": "opt_api/_sources/api/residual.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/rsm.rst.txt",
+      "sha256": "445d395b5bd48ec196903feba1ec056e668248c6766c9af1d60d051f4fc5b609",
+      "bytes": 860,
+      "relative_path": "opt_api/_sources/api/rsm.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/sampling.rst.txt",
+      "sha256": "675e219065ce8d2da582c9dd40ef4b9fc9f95bc4541fb80470d5c7926c794460",
+      "bytes": 923,
+      "relative_path": "opt_api/_sources/api/sampling.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/screen.rst.txt",
+      "sha256": "54f642e75b81772bbbe68419a24bd46b880885a68ad33dfccd8ff56ddfafed33",
+      "bytes": 219,
+      "relative_path": "opt_api/_sources/api/screen.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/sens.rst.txt",
+      "sha256": "82d80e8e803c487e9764bee10845723f6a8ff191a3a37bc85be06375936c1f4f",
+      "bytes": 272,
+      "relative_path": "opt_api/_sources/api/sens.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/target.rst.txt",
+      "sha256": "d8531e3d9530eb506f1b4948cb4a11eb4230a488ee560ebd647f71b40293715b",
+      "bytes": 11634,
+      "relative_path": "opt_api/_sources/api/target.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/test_functions.rst.txt",
+      "sha256": "c0e149044961a03332094951fcd5d9ed6a3cc0bbc09d33f4f50daf9f176dfe44",
+      "bytes": 1748,
+      "relative_path": "opt_api/_sources/api/test_functions.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/api/topt_params.rst.txt",
+      "sha256": "bc9f0ed9b73fc3aa7f6747ad4caa7d110fd97f74e4f30e4992cd7305bd34cda3",
+      "bytes": 157,
+      "relative_path": "opt_api/_sources/api/topt_params.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/errors.rst.txt",
+      "sha256": "76a0b6ce14c471487677563575fe07a0545ceba64f105d5906ec5e4e1ce954df",
+      "bytes": 9283,
+      "relative_path": "opt_api/_sources/ug/errors.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/gp_kernel.rst.txt",
+      "sha256": "35b20bd618793ac4c180ae00ae0aa117801b5e05f9a3723acf31b83a874f93eb",
+      "bytes": 5170,
+      "relative_path": "opt_api/_sources/ug/gp_kernel.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/introduction.rst.txt",
+      "sha256": "45c7af48b7932c7be3d72c5dcd613762541ca13a3569e83d75a74a9a219c47e7",
+      "bytes": 52031,
+      "relative_path": "opt_api/_sources/ug/introduction.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/param_trans.rst.txt",
+      "sha256": "654facacb6e077b0caebb2d061120bd466404a6efdd1c685948879f4aa26f718",
+      "bytes": 8747,
+      "relative_path": "opt_api/_sources/ug/param_trans.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/parameters.rst.txt",
+      "sha256": "f00af6663c203a82d54ca5a58ab7d38fe928f7e4bf7a0f684901be37beb81beb",
+      "bytes": 12848,
+      "relative_path": "opt_api/_sources/ug/parameters.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/rsm.rst.txt",
+      "sha256": "602f30c6bd26539898ea5e36dc7bac9b9adf4ae00fb1f21c63b3eb2f5526963a",
+      "bytes": 1577,
+      "relative_path": "opt_api/_sources/ug/rsm.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/sampling.rst.txt",
+      "sha256": "4806a104c284760cca312d0ed2204894692709066a2f856baa0a6e4941547f33",
+      "bytes": 10608,
+      "relative_path": "opt_api/_sources/ug/sampling.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/screen.rst.txt",
+      "sha256": "e76f7d511cb92bc511108a05b0f3d1f7adc2fb54ceee95458154eee2069afe07",
+      "bytes": 5009,
+      "relative_path": "opt_api/_sources/ug/screen.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/sens.rst.txt",
+      "sha256": "a8f279ceb55558a677d6eae1ec93f1ccc597ad38b70e06a56dd559baeda19bdb",
+      "bytes": 19737,
+      "relative_path": "opt_api/_sources/ug/sens.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_sources/ug/target.rst.txt",
+      "sha256": "d8531e3d9530eb506f1b4948cb4a11eb4230a488ee560ebd647f71b40293715b",
+      "bytes": 11634,
+      "relative_path": "opt_api/_sources/ug/target.rst.txt"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/_sphinx_javascript_frameworks_compat.js",
+      "sha256": "2f1e30341b31300bdc3af29ee4a64e0f40ed15492345387bb47542d9b9b4813c",
+      "bytes": 4418,
+      "relative_path": "opt_api/_static/_sphinx_javascript_frameworks_compat.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/basic.css",
+      "sha256": "7798b6ce8571bcadb344d131c6913f175d1c63706cfa38015f606356eabb149f",
+      "bytes": 14621,
+      "relative_path": "opt_api/_static/basic.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/custom.css",
+      "sha256": "1329c13459ae3130e4a92756ae122adf4e34db24842446b120f7aee1a030e4ca",
+      "bytes": 612,
+      "relative_path": "opt_api/_static/custom.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/doctools.js",
+      "sha256": "2985f25f79e5ddcd1ed494ca63fc85f215f79e0cd156e622ce2bf3cf2cd9445f",
+      "bytes": 8171,
+      "relative_path": "opt_api/_static/doctools.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/documentation_options.js",
+      "sha256": "531c26ebd73d6eaa8e2b76b5ffa9a75d1b0d7d49bf64783b9c3802164b590ec1",
+      "bytes": 424,
+      "relative_path": "opt_api/_static/documentation_options.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/file.png",
+      "sha256": "5c4bc9a16aebf38c4b950f59b8e501ca36495328cb9eb622218bce9064a35e3e",
+      "bytes": 286,
+      "relative_path": "opt_api/_static/file.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/jquery-3.6.0.js",
+      "sha256": "1fe2bb5390a75e5d61e72c107cab528fc3c29a837d69aab7d200e1dbb5dcd239",
+      "bytes": 288580,
+      "relative_path": "opt_api/_static/jquery-3.6.0.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/jquery.js",
+      "sha256": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e",
+      "bytes": 89501,
+      "relative_path": "opt_api/_static/jquery.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/language_data.js",
+      "sha256": "d35fde9e52ed4840ec7ed105ddb3302a26eb0f53aa151a9491a2dcce0f5d2534",
+      "bytes": 4758,
+      "relative_path": "opt_api/_static/language_data.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/minus.png",
+      "sha256": "47e7fc50db3699f1ca41ce9a2ffa202c00c5d1d5180c55f62ba859b1bd6cc008",
+      "bytes": 90,
+      "relative_path": "opt_api/_static/minus.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/plus.png",
+      "sha256": "54115199b96a130cba02147c47c0deb43dcc9b9f08b5162bba8642b34980ac63",
+      "bytes": 90,
+      "relative_path": "opt_api/_static/plus.png"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/pygments.css",
+      "sha256": "316dc87150077b0ab61a35963b169f935e873e2ce1a32f0fd7d2ccc34978fd5d",
+      "bytes": 4902,
+      "relative_path": "opt_api/_static/pygments.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/searchtools.js",
+      "sha256": "cd10b35c838bd062f0c9aa9b4fc7e3f19038e802ebc0af1e463b9fee428b0b5f",
+      "bytes": 17120,
+      "relative_path": "opt_api/_static/searchtools.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/underscore-1.13.1.js",
+      "sha256": "cc10f799cd0f6b65f95c4012445497e5ba3cb9f51964a9468940b27bde98b487",
+      "bytes": 68420,
+      "relative_path": "opt_api/_static/underscore-1.13.1.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/underscore.js",
+      "sha256": "218fb1c1fc72e9af6b866f430be2a67fa376392b4db2f4dbf32772671b6ae55c",
+      "bytes": 19530,
+      "relative_path": "opt_api/_static/underscore.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/badge_only.css",
+      "sha256": "c4050fa47d8bb6297c79811f663e6cfa32cb6b783b47eaeddd6ba50d5cf1a666",
+      "bytes": 3275,
+      "relative_path": "opt_api/_static/css/badge_only.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/theme.css",
+      "sha256": "0fe1c43f95064ebe41691b2429011cd1633d7c4a460fa444b0b26dd4aafcf2fd",
+      "bytes": 123687,
+      "relative_path": "opt_api/_static/css/theme.css"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/Roboto-Slab-Bold.woff",
+      "sha256": "9fec87cadbe2413b255f1ec577573a83f1ca2e1c37aa023dbebcd3a7b864636a",
+      "bytes": 87624,
+      "relative_path": "opt_api/_static/css/fonts/Roboto-Slab-Bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/Roboto-Slab-Bold.woff2",
+      "sha256": "1a0c024dd1a267c52d5575469ffe8570d1e84164de7d393cf3414bafd17d7a0c",
+      "bytes": 67312,
+      "relative_path": "opt_api/_static/css/fonts/Roboto-Slab-Bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/Roboto-Slab-Regular.woff",
+      "sha256": "9f32630e2c0c5135bf1e86e36cb65b3932e4410644235bc2bd995e9c7f6ff117",
+      "bytes": 86288,
+      "relative_path": "opt_api/_static/css/fonts/Roboto-Slab-Regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/Roboto-Slab-Regular.woff2",
+      "sha256": "874e42222856d7af03b3f438d21d923a4280d47fe67c48510e2174a1579795ef",
+      "bytes": 66444,
+      "relative_path": "opt_api/_static/css/fonts/Roboto-Slab-Regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/fontawesome-webfont.eot",
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "bytes": 165742,
+      "relative_path": "opt_api/_static/css/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/fontawesome-webfont.svg",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "bytes": 444379,
+      "relative_path": "opt_api/_static/css/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/fontawesome-webfont.ttf",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "bytes": 165548,
+      "relative_path": "opt_api/_static/css/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/fontawesome-webfont.woff",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "bytes": 98024,
+      "relative_path": "opt_api/_static/css/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/fontawesome-webfont.woff2",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "bytes": 77160,
+      "relative_path": "opt_api/_static/css/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-bold-italic.woff",
+      "sha256": "980c8592e5488df256192c999e92db8fd302db8cd8909b7fa266a684e37e45f8",
+      "bytes": 323344,
+      "relative_path": "opt_api/_static/css/fonts/lato-bold-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-bold-italic.woff2",
+      "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d",
+      "bytes": 193308,
+      "relative_path": "opt_api/_static/css/fonts/lato-bold-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-bold.woff",
+      "sha256": "0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e",
+      "bytes": 309728,
+      "relative_path": "opt_api/_static/css/fonts/lato-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-bold.woff2",
+      "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6",
+      "bytes": 184912,
+      "relative_path": "opt_api/_static/css/fonts/lato-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-normal-italic.woff",
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "bytes": 328412,
+      "relative_path": "opt_api/_static/css/fonts/lato-normal-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-normal-italic.woff2",
+      "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc",
+      "bytes": 195704,
+      "relative_path": "opt_api/_static/css/fonts/lato-normal-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-normal.woff",
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "bytes": 309192,
+      "relative_path": "opt_api/_static/css/fonts/lato-normal.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/css/fonts/lato-normal.woff2",
+      "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f",
+      "bytes": 182708,
+      "relative_path": "opt_api/_static/css/fonts/lato-normal.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Inconsolata-Bold.ttf",
+      "sha256": "c268fae6dbf17a27f648218fac958b86dc38e169f6315f0b02866966f56b42bf",
+      "bytes": 109948,
+      "relative_path": "opt_api/_static/fonts/Inconsolata-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Inconsolata-Regular.ttf",
+      "sha256": "e28c150b4390e5fd59aedc2c150b150086fbcba0b4dbde08ac260d6db65018d6",
+      "bytes": 96964,
+      "relative_path": "opt_api/_static/fonts/Inconsolata-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Inconsolata.ttf",
+      "sha256": "c2d9721f4afc45e77b103c9ae735f44a4ffc5603e19b240de9857f87e9ae2bf4",
+      "bytes": 63184,
+      "relative_path": "opt_api/_static/fonts/Inconsolata.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato-Bold.ttf",
+      "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+      "bytes": 656544,
+      "relative_path": "opt_api/_static/fonts/Lato-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato-Regular.ttf",
+      "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+      "bytes": 656568,
+      "relative_path": "opt_api/_static/fonts/Lato-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab-Bold.ttf",
+      "sha256": "ba12d2eab1fa765b6b05398fa7e047dd76293f0c051ce57a8f7b0c591c14d42b",
+      "bytes": 170616,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab-Bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab-Regular.ttf",
+      "sha256": "13aa5f54c6f2fa2e388fe0e675cdbcc6a81f6270a8bf9c03a5df8af9cb022810",
+      "bytes": 169064,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab-Regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/fontawesome-webfont.eot",
+      "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+      "bytes": 165742,
+      "relative_path": "opt_api/_static/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/fontawesome-webfont.svg",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "bytes": 444379,
+      "relative_path": "opt_api/_static/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/fontawesome-webfont.ttf",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "bytes": 165548,
+      "relative_path": "opt_api/_static/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/fontawesome-webfont.woff",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "bytes": 98024,
+      "relative_path": "opt_api/_static/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/fontawesome-webfont.woff2",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "bytes": 77160,
+      "relative_path": "opt_api/_static/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bold.eot",
+      "sha256": "b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1",
+      "bytes": 256056,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bold.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bold.ttf",
+      "sha256": "f71f833c099f450606f8107b83ef208ae918c0ea00779466d45e9be96b0bc7cc",
+      "bytes": 600856,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bold.woff",
+      "sha256": "0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e",
+      "bytes": 309728,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bold.woff2",
+      "sha256": "ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6",
+      "bytes": 184912,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bolditalic.eot",
+      "sha256": "b3d585879a02f48c5d43d8f91d06b167e367a31934bb3b8147c0a90b5ca32bfc",
+      "bytes": 266158,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bolditalic.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bolditalic.ttf",
+      "sha256": "f98d040631714eabffd0ffb747576674fa78c2910f6d9e3dc0c58481d03c1898",
+      "bytes": 622572,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bolditalic.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bolditalic.woff",
+      "sha256": "980c8592e5488df256192c999e92db8fd302db8cd8909b7fa266a684e37e45f8",
+      "bytes": 323344,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bolditalic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-bolditalic.woff2",
+      "sha256": "c0916a33340d063f7b05679e08031e729d1888444706f04804705da5966d895d",
+      "bytes": 193308,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-bolditalic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-italic.eot",
+      "sha256": "bc24dbe04f5b2415678f978e7e2f630cc6610670d684e088e73ad29c439eafe3",
+      "bytes": 268604,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-italic.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-italic.ttf",
+      "sha256": "12d825af88eafea1ce3aa469f83c03acaecd0d03f690f409c8643529f1205b4f",
+      "bytes": 639388,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-italic.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-italic.woff",
+      "sha256": "26318a1467a5e5caf10b04cfa942d079632560cd7a29cec565fd1dc9f7ec5081",
+      "bytes": 328412,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-italic.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-italic.woff2",
+      "sha256": "4465765f2f6eddcdad34ffd7cab559e56bc0e75e45e192f85e9562b0771481dc",
+      "bytes": 195704,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-italic.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-regular.eot",
+      "sha256": "e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3",
+      "bytes": 253461,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-regular.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-regular.ttf",
+      "sha256": "089ab6d4a57e0e6c4dd3b681b6fd50a5184f1b902429d35e1227e52d6ccad1bd",
+      "bytes": 607720,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-regular.woff",
+      "sha256": "5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e",
+      "bytes": 309192,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/Lato/lato-regular.woff2",
+      "sha256": "983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f",
+      "bytes": 182708,
+      "relative_path": "opt_api/_static/fonts/Lato/lato-regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.eot",
+      "sha256": "4438991a12ff951cc8d0e83348ec06d9f910591b1b014c476e9595d4da099e48",
+      "bytes": 79520,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.ttf",
+      "sha256": "ba12d2eab1fa765b6b05398fa7e047dd76293f0c051ce57a8f7b0c591c14d42b",
+      "bytes": 170616,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff",
+      "sha256": "9fec87cadbe2413b255f1ec577573a83f1ca2e1c37aa023dbebcd3a7b864636a",
+      "bytes": 87624,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff2",
+      "sha256": "1a0c024dd1a267c52d5575469ffe8570d1e84164de7d393cf3414bafd17d7a0c",
+      "bytes": 67312,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.eot",
+      "sha256": "b3809b71d417c6c225e77a55880aa7915b4e4b4f77a5e2d243f3563731e7f55c",
+      "bytes": 78331,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.eot"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf",
+      "sha256": "13aa5f54c6f2fa2e388fe0e675cdbcc6a81f6270a8bf9c03a5df8af9cb022810",
+      "bytes": 169064,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff",
+      "sha256": "9f32630e2c0c5135bf1e86e36cb65b3932e4410644235bc2bd995e9c7f6ff117",
+      "bytes": 86288,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2",
+      "sha256": "874e42222856d7af03b3f438d21d923a4280d47fe67c48510e2174a1579795ef",
+      "bytes": 66444,
+      "relative_path": "opt_api/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/js/badge_only.js",
+      "sha256": "f0a4808d04c4d55378751ac096a8376b64b1a704c82584b0ee590212cf413013",
+      "bytes": 934,
+      "relative_path": "opt_api/_static/js/badge_only.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/js/html5shiv-printshiv.min.js",
+      "sha256": "b42a7e949a6e21d66b30fbbb4a22deafd9e0ccabc04f0fa2907fc6252fdf165f",
+      "bytes": 4370,
+      "relative_path": "opt_api/_static/js/html5shiv-printshiv.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/js/html5shiv.min.js",
+      "sha256": "f6e0283561ddb33b140e14977ffad57163aa28f7e2e7ff15e51e1475b6657b60",
+      "bytes": 2734,
+      "relative_path": "opt_api/_static/js/html5shiv.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/js/modernizr.min.js",
+      "sha256": "cf25ec18f223f4c51ce1128a42e644cdc2244d88f89d1a51440d9dbe51f4efe8",
+      "bytes": 15414,
+      "relative_path": "opt_api/_static/js/modernizr.min.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/_static/js/theme.js",
+      "sha256": "b1c4d09da3a719c689344888584ef18c52c4bbcff3b7aaed7752fdff7a47050c",
+      "bytes": 4916,
+      "relative_path": "opt_api/_static/js/theme.js"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/cost.html",
+      "sha256": "1574be908fbff1f3696bb8a7ba9eb842ecbaed7ec1584feccdac11f2ad7f6464",
+      "bytes": 44498,
+      "relative_path": "opt_api/api/cost.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/gp_kernel.html",
+      "sha256": "739c9cb83832be21f35bf379bd01646910fd3acb7ff5ba58c684dba240610445",
+      "bytes": 20288,
+      "relative_path": "opt_api/api/gp_kernel.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/opt.html",
+      "sha256": "c398242ca2073f832ef102795cb2ed3b92c1ea48c8440029986e54fe116acf41",
+      "bytes": 43653,
+      "relative_path": "opt_api/api/opt.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/opt_params.html",
+      "sha256": "f58c2d15e0c9139b17c4e690ded30a552cf79847c8702f63bb59b12abeb85365",
+      "bytes": 27193,
+      "relative_path": "opt_api/api/opt_params.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/param_trans.html",
+      "sha256": "ad73194ebb4f42e817b3c1b86a3d674d8567011901ed11273ec24182c36a5b45",
+      "bytes": 33530,
+      "relative_path": "opt_api/api/param_trans.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/pspace.html",
+      "sha256": "1a43de4fde8b0abd6808089eda2a4b101e5577b8704c1a97eae47f9423535310",
+      "bytes": 67135,
+      "relative_path": "opt_api/api/pspace.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/residual.html",
+      "sha256": "fad9bb4f04d231f198e9dcd3fa09f202be75b36ed0815381e65a4fe9869fa12f",
+      "bytes": 43724,
+      "relative_path": "opt_api/api/residual.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/rsm.html",
+      "sha256": "bdca3c5bf8bd4f32cca27db665a177a78fe8c835c7ce2ba3933196dc3d714f58",
+      "bytes": 83932,
+      "relative_path": "opt_api/api/rsm.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/sampling.html",
+      "sha256": "831286709fa17afc6d97dfceeebdff633e3fc2d2b41258bb10bdcccdc318199a",
+      "bytes": 48381,
+      "relative_path": "opt_api/api/sampling.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/screen.html",
+      "sha256": "161dc5e5cc4d52d819db15cf837622ad69e520ce1a3406f224eb85ab81e29470",
+      "bytes": 22218,
+      "relative_path": "opt_api/api/screen.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/sens.html",
+      "sha256": "85f722e9f7eb19c61b23846243efdad04279e574e5e3f5ed9a2bd337fd672e4f",
+      "bytes": 26861,
+      "relative_path": "opt_api/api/sens.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/target.html",
+      "sha256": "7f746d033d9d2a76a90d21acafff410c01c688ee5bc3a0afddac51da5b9e6ed0",
+      "bytes": 30048,
+      "relative_path": "opt_api/api/target.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/test_functions.html",
+      "sha256": "ef1ef6035510a1294e5b0066918ac3a48a20f9802f0ce04764ea71b54903310b",
+      "bytes": 66605,
+      "relative_path": "opt_api/api/test_functions.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/api/topt_params.html",
+      "sha256": "5e59af419e08e3d6e1214e2c198129f22bce78386a604ad55b5f29649a1df271",
+      "bytes": 19638,
+      "relative_path": "opt_api/api/topt_params.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/errors.html",
+      "sha256": "e224bd0d18b5aed403f3b3440abfef89097bc9b2b98c9f721ebed752cb27c70f",
+      "bytes": 28337,
+      "relative_path": "opt_api/ug/errors.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/gp_kernel.html",
+      "sha256": "0c23d27e6379e6a21156b824623e18e8d9363e41cfbf3ea78f3eadf25ca40951",
+      "bytes": 21684,
+      "relative_path": "opt_api/ug/gp_kernel.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/introduction.html",
+      "sha256": "9f2642dcfc6a78c01e19e7d1e2cbfe4088f56953bf77b140dc8158db3a084e55",
+      "bytes": 90812,
+      "relative_path": "opt_api/ug/introduction.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/param_trans.html",
+      "sha256": "2d2abd4268457237a652cc18aa404e5252d499d7cac49d8fcb44431d057bc81d",
+      "bytes": 17784,
+      "relative_path": "opt_api/ug/param_trans.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/parameters.html",
+      "sha256": "1d28c19392b104850955a615e775eeae6bbb4027459714b8db29b61c67c9c2d3",
+      "bytes": 50262,
+      "relative_path": "opt_api/ug/parameters.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/rsm.html",
+      "sha256": "41d777a23f59cb1efb852a7c6c51206e11b1dc4fd2f73d48b70da70df4647e14",
+      "bytes": 30533,
+      "relative_path": "opt_api/ug/rsm.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/sampling.html",
+      "sha256": "fa1a973014af602206be4e06979ea86dad612c42ceea40966ef119e980b58e4d",
+      "bytes": 31589,
+      "relative_path": "opt_api/ug/sampling.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/screen.html",
+      "sha256": "5edc471e2dbfbf0069176d368ae319b87cb4ce4a51b0974d73aa8dbedcee0b4f",
+      "bytes": 17450,
+      "relative_path": "opt_api/ug/screen.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/sens.html",
+      "sha256": "58d120e49fe277c7e579e347f2d94315133280f30f09a9ca56f914926b277712",
+      "bytes": 63880,
+      "relative_path": "opt_api/ug/sens.html"
+    },
+    {
+      "server_path": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/W-2024.09-SP1/manuals/tcad_spice/opt_api/ug/target.html",
+      "sha256": "e2db728053fb8f2b08573cd43666c54e910264dd7bd2ae433f056d626dc1e188",
+      "bytes": 30047,
+      "relative_path": "opt_api/ug/target.html"
+    }
+  ],
+  "root": "/home/synopsys/sentaurus/W-2024.09-SP1/tcad/current/manuals/tcad_spice",
+  "server_utc": "2026-10-22T14:14:36.686756Z",
+  "all_hashes_verified": true,
+  "archive_sha256": "b0937ee76db6cf6bc32e649c46cd9f262cbc76c0b958522a852e27f105defbf9"
+}
