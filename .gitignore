@@ -1,0 +1,48 @@
+# Licensed/vendor documentation and generated search indexes
+/references/manuals/
+/references/manual_index/
+
+# Local reports and machine-specific environment notes
+/references/*.docx
+/references/current-environment.md
+/references/current-environment.local.md
+
+# Local simulation state and generated TCAD outputs
+/claude_tmp/
+*.log
+*.out
+*.sta
+*.job
+*.tdr
+*.plt
+
+# Python caches, test artifacts, and virtual environments
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor, operating-system, and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+~$*
+*.tmp
+*.temp
+*.bak
