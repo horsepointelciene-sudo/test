@@ -10,10 +10,16 @@ PDFROOT="${MANUAL_PDF_DIR:-$SKILL_DIR/references/manuals}"
 OUT="${MANUAL_TEXT_DIR:-$SKILL_DIR/references/manual_index/$TASK_RELEASE/text}"
 PDFROOT="${PDFROOT%/}"
 
-command -v pdftotext >/dev/null || {
+if command -v pdftotext >/dev/null; then
+  PDFTOTEXT="$(command -v pdftotext)"
+elif [[ -x /ucrt64/bin/pdftotext.exe ]]; then
+  PDFTOTEXT=/ucrt64/bin/pdftotext.exe
+elif [[ -x /mingw64/bin/pdftotext.exe ]]; then
+  PDFTOTEXT=/mingw64/bin/pdftotext.exe
+else
   echo "pdftotext not found; install Poppler before building the index" >&2
   exit 1
-}
+fi
 command -v find >/dev/null || { echo "find not found" >&2; exit 1; }
 command -v sort >/dev/null || { echo "sort not found" >&2; exit 1; }
 
@@ -111,7 +117,7 @@ for pdf in "${pdfs[@]}"; do
   fi
 
   task_tmp="$target.tmp.$$"
-  if ! pdftotext -layout "$pdf" "$task_tmp"; then
+  if ! "$PDFTOTEXT" -layout "$pdf" "$task_tmp"; then
     echo "Conversion failed: $pdf" >&2
     exit 1
   fi

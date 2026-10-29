@@ -78,10 +78,11 @@ tail -20 n<N>_des.log
 
 ### 检索路由
 
-1. **软件用法 / Sentaurus 模型语法**：先用 Grep/Read 检索本地 manuals 与 Applications Library（用 `$STROOT/tcad/$STRELEASE/` 下的实际路径），再按需读 PDF/Training HTML。
+1. **软件用法 / Sentaurus 模型语法**：先用 `scripts/search.py` 检索由 `references/manuals/` 构建的本地全文索引，再按命中页码读取对应 PDF；Applications Library 和 Training HTML 仍按实际本地或服务器路径读取。
 2. **器件物理 / 参数依据**：用 scholar 插件或 WebSearch 查文献；用户若已有 Zotero 库，可让用户导出条目或摘要后使用。
 3. **本地官方资料**：
-   - PDF manuals：`manuals/PDFManual/data/`
+   - PDF manuals：`references/manuals/`
+   - 全文索引：`references/manual_index/W-2024.09-SP1/text/`
    - Applications Library：`Applications_Library/`
    - Training HTML：`Sentaurus_Training/`
 4. **两次失败规则**：同类失败最多尝试两次。第二次仍失败时停止盲试，回到资料检索和根因分析。
